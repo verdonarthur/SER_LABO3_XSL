@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE projections SYSTEM "Plex_Admin_Data.dtd">
+<?xml-stylesheet type="text/xsl" href="projections.xsl"?>
+
+<projections>
+    <projection>
+        <date>2016-04-07 20:30:00</date>
+        <salleNum>2</salleNum>
+        <film>
+            <titre>Deadpool</titre>
+            <synopsis>Deadpool, est l'anti-héros le plus atypique de l'univers Marvel. A l'origine, il s'appelle Wade Wilson : un ancien militaire des Forces Spéciales devenu mercenaire. Après avoir subi une expérimentation hors norme qui va accélérer ses pouvoirs de guérison, il va devenir Deadpool. Armé de ses nouvelles capacités et d'un humour noir survolté, Deadpool va traquer l'homme qui a bien failli anéantir sa vie.</synopsis>
+            <duree>108</duree>
+            <critique>
+                <note>4</note>
+                <texte>Tourné avec un petit budget à l'échelle du genre et beaucoup d’envie de la part de Ryan Reynolds et sa bande, "Deadpool" parvient à maintenir un équilibre distrayant entre une action spectaculaire, un humour gras et grossier sans être si vulgaire que ça, et une performance d’acteur à la gloire d’un personnage séduisant.</texte>
+            </critique>
+            <critique>
+                <note>3</note>
+                <texte>Comme l’acteur (Ryan Reynolds), passé discrètement mais décemment par la case comédie, s'en sort plutôt bien et que le film ne connait pas de baisse de rythme significative, on finit par capituler.</texte>
+            </critique>
+            <genre>Action</genre>
+            <genre>Aventure</genre>
+            <genre>Comédie</genre>
+            <motcle>Comics</motcle>
+            <motcle>Marvel</motcle>
+            <motcle>Super-héro</motcle>
+            <langage>VO</langage>
+            <photo>http://fr.web.img5.acsta.net/r_645_430/pictures/16/01/19/16/49/249124.jpg</photo>
+            <role>
+                <personnage>Wade Wilson / Deadpool</personnage>
+                <place>1</place>
+                <acteur>
+                    <biographie>Ryan Reynolds est le plus jeune fils d'une famille de quatre enfants. Né d'un père grossiste dans l'alimentaire à Vancouver, et d'une mère vendeuse au détail dans un magasin, Reynolds débute sa carrière en 1991, dans la série télévisée Fifteen. Après avoir tenu la vedette du drame Ordinary Magic, le jeune Canadien découvre Hollywood en 1997, avec la comédie Life During Wartime. Après être apparu dans la comédie Dick, les dessous de la présidence, il obtient en 2002 son premier grand rôle dans American Party - Van Wilder relations publiques, où il incarne un organisateur de soirées très décontracté.</biographie>
+                    <date_deces></date_deces>
+                    <date_naissance>1976-10-23</date_naissance>
+                    <nom>Ryan Reynolds</nom>
+                    <nom_naissance>Ryan Rodney Reynolds</nom_naissance>
+                    <sexe>Masculin</sexe>
+                </acteur>
+            </role>
+            <role>
+                <personnage>Vanessa Carlysle / Copycat</personnage>
+                <place>2</place>
+                <acteur>
+                    <biographie>Morena Baccarin vit à Rio de Janeiro jusqu’à l’âge de 10 ans avant de déménager à New-York avec ses parents, l’actrice Vera Setta et le journaliste Fernando Baccarin.</biographie>
+                    <date_deces></date_deces>
+                    <date_naissance>1979-06-02</date_naissance>
+                    <nom>Morena Baccarin</nom>
+                    <nom_naissance>Morena Silva de Vaz Setta Baccarin</nom_naissance>
+                    <sexe>Feminin</sexe>
+                </acteur>
+            </role>
+        </film>
+    </projection>
+    <projection>
+        <date>2016-04-07 21:30:00</date>
+        <salleNum>1</salleNum>
+        <film>
+            <titre>Batman v Superman : L’Aube de la Justice</titre>
+            <synopsis>Craignant que Superman n'abuse de sa toute-puissance, le Chevalier noir décide de l'affronter : le monde a-t-il davantage besoin d'un super-héros aux pouvoirs sans limite ou d'un justicier à la force redoutable mais d'origine humaine ? Pendant ce temps-là, une terrible menace se profile à l'horizon…</synopsis>
+            <duree>153</duree>
+            <critique>
+                <note>5</note>
+                <texte>Les effets spéciaux, omniprésents, sont à couper le souffle, évoquant parfois un jeu vidéo particulièrement réussi, sur fond de bande-son assourdissante.</texte>
+            </critique>
+            <critique>
+                <note>2</note>
+                <texte>Le grand problème du film est le manque d'humour et de recul face à la pesanteur du sujet. (...) Résultat : le film finit par oublier le grand spectacle au risque de l'ennui. Mais la dernière demi-heure est une grande scène de destruction.</texte>
+            </critique>
+            <genre>Action</genre>
+            <genre>Fantastique</genre>
+            <motcle>Comics</motcle>
+            <motcle>DC</motcle>
+            <motcle>Super-héro</motcle>
+            <langage>VO</langage>
+            <photo>http://fr.web.img2.acsta.net/r_1920_1080/pictures/16/02/03/11/17/130929.jpg</photo>
+            <role>
+                <personnage>Bruce Wayne / Batman</personnage>
+                <place>1</place>
+                <acteur>
+                    <biographie>Né d'un père travailleur social et d'une mère institutrice, Ben Affleck fait ses débuts d'acteur très jeune en tournant un spot publicitaire pour Burger King et en jouant dans The Dark end of the street (1981), un drame de Jan Egleson. L'acteur enchaîne alors les séries télévisées et téléfilms comme The Voyage of the Mimi (1984), ou encore The Second Voyage of the Mimi (1988). Durant sa scolarité à Harvard, il fait la rencontre de Matt Damon qui devient son ami. Ben Affleck abandonne bientôt ...</biographie>
+                    <date_deces></date_deces>
+                    <date_naissance>1972-08-15</date_naissance>
+                    <nom>Ben Affleck</nom>
+                    <nom_naissance>Benjamin Geza Affleck</nom_naissance>
+                    <sexe>Masculin</sexe>
+                </acteur>
+            </role>
+            <role>
+                <personnage>Clark Kent / Superman</personnage>
+                <place>2</place>
+                <acteur>
+                    <biographie>Henry Cavill grandit à Jersey, avec ses quatre frères, où il reçoit une éducation traditionnelle avant de découvrir le théâtre à la Stowe School de Buckingham ; il alterne dès lors entre pièces classiques ("Le Songe d'une nuit d'été") et comédies musicales ("Grease"), et s'essaie même à la mise en scène. Sa carrière professionnelle commence réellement en 2001 avec Laguna, drame canadien dans lequel il incarne un jeune orphelin recueilli par un ancien mafieux. A 18 ans à peine, ce premier rôle...</biographie>
+                    <date_deces></date_deces>
+                    <date_naissance>1979-06-02</date_naissance>
+                    <nom>Henry Cavill</nom>
+                    <nom_naissance>Henry Cavill</nom_naissance>
+                    <sexe>Masculin</sexe>
+                </acteur>
+            </role>
+        </film>
+    </projection>
+</projections>
