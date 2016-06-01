@@ -15,6 +15,14 @@
 				<!-- Bootstrap Core JavaScript -->
 				<script src="js/bootstrap.min.js"></script>
 
+				<script src="js/rater.min.js"></script>
+
+				<script>
+					$(document).ready(function () {
+						$(".stars").rate({readonly: true});
+					});
+				</script>
+
 				<title>Listes des projections</title>
 				<style type="text/css">
 					@import url("./css/bootstrap.min.css");
@@ -39,13 +47,13 @@
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
 								<li>
-									<a href="#">Tri par nom</a>
+									<a href="#byName">Tri par nom</a>
 								</li>
 								<li>
-									<a href="#">Tri par classement</a>
+									<a href="#byRate">Tri par classement</a>
 								</li>
 								<li>
-									<a href="#">Tri par heure</a>
+									<a href="#byHour">Tri par heure</a>
 								</li>
 							</ul>
 						</div>
@@ -67,8 +75,11 @@
 
 					<!-- Film Row -->
 					<xsl:call-template name="movieByName"/>
+
 					<xsl:call-template name="movieByRating"/>
+
 					<xsl:call-template name="movieByHour"/>
+
 					<!--<xsl:call-template name="filmAffiche"/>-->
 
 					<!-- /.row -->
@@ -79,88 +90,192 @@
 	</xsl:template>
 
 	<xsl:template name="movieByName">
-		<h1>Liste des films par nom</h1>
+		<h1 id="byName">Liste des films par nom</h1>
 
 		<xsl:for-each select="//projection/film">
 
 			<xsl:sort order="ascending" select="titre"/>
-			<div class="row">
-				<div class="col-md-5">
-					<img class="img-movies img-responsive ">
 
-						<xsl:attribute name="src">
-							<xsl:value-of select="./photo"/>
-						</xsl:attribute>
-					</img>
-				</div>
-				<div class="col-md-7">
-					<h3><xsl:value-of select="titre"/></h3>
-					<h4></h4>
-					<p><xsl:value-of select="synopsis"/></p>
-					<!--<a class="btn btn-primary" href="#">View Project
-						<span class="glyphicon glyphicon-chevron-right"></span>
-					</a>-->
-				</div>
-			</div>
-			<hr></hr>
+			<xsl:apply-templates select="../film" mode="list"/>
+
 		</xsl:for-each>
 	</xsl:template>
 
 	<xsl:template name="movieByRating">
-		<h1>Liste des films par note</h1>
+		<h1 id="byRate">Liste des films par note</h1>
 
 		<xsl:for-each select="//projection/film">
 
-			<xsl:sort order="ascending" select="((sum(critique/note)) div (count(critique)))"/>
+			<xsl:sort order="descending" select="((sum(critique/note)) div (count(critique)))"/>
 
-			<div class="row">
-				<div class="col-md-5">
-					<img class="img-movies img-responsive ">
-
-						<xsl:attribute name="src">
-							<xsl:value-of select="./photo"/>
-						</xsl:attribute>
-					</img>
-				</div>
-				<div class="col-md-7">
-					<h3><xsl:value-of select="titre"/></h3>
-					<h4></h4>
-					<p><xsl:value-of select="synopsis"/></p>
-					<!--<a class="btn btn-primary" href="#">View Project
-						<span class="glyphicon glyphicon-chevron-right"></span>
-					</a>-->
-				</div>
-			</div>
-			<hr></hr>
+			<xsl:apply-templates select="../film" mode="list"/>
 		</xsl:for-each>
 	</xsl:template>
 
 	<xsl:template name="movieByHour">
-		<h1>Liste des films par date</h1>
+		<h1 id="byHour">Liste des films par date</h1>
 
 		<xsl:for-each select="//projection/film">
 
 			<xsl:sort order="ascending" select="../date"/>
-			<div class="row">
-				<div class="col-md-5">
-					<img class="img-movies img-responsive ">
 
-						<xsl:attribute name="src">
-							<xsl:value-of select="./photo"/>
-						</xsl:attribute>
-					</img>
-				</div>
-				<div class="col-md-7">
-					<h3><xsl:value-of select="titre"/></h3>
-					<h4></h4>
-					<p><xsl:value-of select="synopsis"/></p>
-					<!--<a class="btn btn-primary" href="#">View Project
-						<span class="glyphicon glyphicon-chevron-right"></span>
-					</a>-->
-				</div>
-			</div>
-			<hr></hr>
+			<xsl:apply-templates select="../film" mode="list"/>
 		</xsl:for-each>
+	</xsl:template>
+
+	<xsl:template match="acteur" mode="liste">
+
+		<xsl:variable name="actorName" select="translate(nom,' ','')"/>
+		<a href="#{$actorName}-details" data-toggle="modal">
+			<li>
+				<xsl:value-of select="nom"/>
+			</li>
+		</a>
+
+	</xsl:template>
+
+	<xsl:template match="acteur" mode="details">
+
+		<xsl:variable name="actorName" select="translate(nom,' ','')"/>
+		<div class="modal fade" tabindex="-1" role="dialog" id="{$actorName}-details">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true"></span>
+						</button>
+						<h4 class="modal-title"><xsl:value-of select="nom"/>
+							- détails</h4>
+					</div>
+					<div class="modal-body">
+						<p>
+							Date de naissance :
+
+							<xsl:value-of select="date_naissance"/><br/>
+							Date de décès :
+
+							<xsl:value-of select="date_deces"/><br/>
+							Genre :
+
+							<xsl:value-of select="sexe"/><br/>
+						</p>
+						<p><xsl:value-of select="biographie"/></p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		</div>
+		<!-- /.modal -->
+
+	</xsl:template>
+
+	<xsl:template match="film" mode="list">
+
+		<xsl:variable name="filmName" select="translate(titre,' ','')"/>
+
+		<xsl:variable name="rating" select="((sum(critique/note)) div (count(critique)))"/>
+
+		<xsl:variable name="pseudoId" select="concat(string-length(titre),string-length(synopsis),duree)"/>
+
+		<div class="row">
+			<div class="col-md-5">
+				<img class="img-movies img-responsive ">
+
+					<xsl:attribute name="src">
+						<xsl:value-of select="./photo"/>
+					</xsl:attribute>
+				</img>
+			</div>
+			<div class="col-md-7">
+				<h3>
+					<xsl:value-of select="titre"/>
+				</h3>
+				<h4>
+					<div class="stars" style="display:inline-block" data-rate-value="{$rating}"></div>
+				</h4>
+				<h5>
+
+					<xsl:value-of select="duree"/>
+					min.,
+
+					<xsl:value-of select="../date"/>
+
+				</h5>
+				<p><xsl:value-of select="synopsis"/></p>
+
+				<div class="panel-group" id="accordion-{$pseudoId}" role="tablist" aria-multiselectable="false">
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingActor-{$pseudoId}">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-{$pseudoId}" href="#actor-{$pseudoId}" aria-expanded="false" aria-controls="actor-{$pseudoId}">
+									Acteurs
+								</a>
+							</h4>
+						</div>
+						<div id="actor-{$pseudoId}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingActor-{$pseudoId}">
+							<div class="panel-body">
+
+								<ul>
+									<xsl:apply-templates select="./role/acteur" mode="liste"/>
+								</ul>
+
+								<xsl:apply-templates select="./role/acteur" mode="details"/>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingGenre-{$pseudoId}">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-{$pseudoId}" href="#genre-{$pseudoId}" aria-expanded="false" aria-controls="genre-{$pseudoId}">
+									Genres
+								</a>
+							</h4>
+						</div>
+						<div id="genre-{$pseudoId}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingGenre-{$pseudoId}">
+							<div class="panel-body">
+
+								<xsl:for-each select="./genre">
+									<span><xsl:value-of select="."/>,
+									</span>
+								</xsl:for-each>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingMotcle-{$pseudoId}">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-{$pseudoId}" href="#motcle-{$pseudoId}" aria-expanded="false" aria-controls="motcle-{$pseudoId}">
+									Mot-clé
+								</a>
+							</h4>
+						</div>
+						<div id="motcle-{$pseudoId}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingMotcle-{$pseudoId}">
+							<div class="panel-body">
+
+								<xsl:for-each select="./motcle">
+									<span><xsl:value-of select="."/>,
+									</span>
+								</xsl:for-each>
+							</div>
+						</div>
+					</div>
+
+					<!--
+					#TODO LANGUE, Horaire et critique des films
+				-->
+
+				</div>
+
+			</div>
+		</div>
+		<hr></hr>
 	</xsl:template>
 
 </xsl:stylesheet>
