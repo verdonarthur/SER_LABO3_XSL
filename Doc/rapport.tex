@@ -1,0 +1,99 @@
+\documentclass[french]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{lmodern}
+\usepackage{geometry}
+\usepackage{babel}
+\usepackage{graphicx}
+\usepackage{lastpage}
+\usepackage{ragged2e}
+\usepackage[normalem]{ulem}
+\usepackage{float}
+\usepackage{import}
+\usepackage{listings}
+
+\setlength{\parindent}{0cm}
+
+\geometry{
+ 	a4paper,
+ 	total={210mm,297mm},
+ 	left=20mm,
+ 	right=20mm,
+ 	top=25mm,
+ 	bottom=20mm,
+}
+
+\lstset{
+    frame=single,
+    breaklines=true,
+    numbers=left,
+    numbersep=6pt,
+    tabsize=2,
+    basicstyle=\small\sffamily
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\lhead{Cotza Andrea \& Verdon Arthur}
+\chead{}
+\rhead{02.06.2016}
+\cfoot{\thepage/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+	\title{SER: Rapport laboratoire 3}
+	\author{Cotza Andrea \& Verdon Arthur\\Prof. E. Lefrançois}
+	\maketitle
+    \vspace{5cm}
+    \tableofcontents
+    \newpage
+
+    \section{Introduction}
+    L'objectif de ce laboratoire consite [...]
+
+    \section{Modification éventuelle de la structure XML}
+    Pas de modification particulière apportée à la structure XML
+
+    \section{Structure du programme}
+    \subsection{XSL}
+    La fichier XSL est découpé en plusieur templates.
+    \\\\le premier des templates permet l'affichage des différents films et peut
+    être appliqué dès que l'on veut afficher un film (il est d'ailleur appliquer
+    dans les templates suivant).
+    \\\\Trois autre template permettent de trier les films
+    selon l'ordre voulu (par date de projection, par nom ou par classement/évaluation).
+    Ces trois autre template applique le premier tempalte qui permet d'afficher la
+    liste des films.
+    \\\\Le dernier template permet d'afficher les acteurs dans le film et est appliqué
+    dans le premier template s'occupant des films.
+
+    \subsection{CSS}
+    Afin de gagner en rapidité de dévellopement, il a été choisi d'utiliser un
+    framework CSS/Javascript pour le design de la page HTML (générer depuis le XSL et le XML).
+    Ce framework s'appel Bootstrap et nous a permis d'avoir un design correct pour la page.
+    Peu de code CSS ont donc été nécessaire c'est pourquoi celui-ci ne sera pas
+    ajouté dans les annexes.
+
+    \subsection{Javascript}
+    Comme dit précédement un framework à été utilisé pendant ce labo donc peu de
+    JS à été écrit (pour les même raisons il ne sera pas ajouté dans les annexes).
+    \\ En complèment a Bootrstrap, nous avons utilisé JQuery (qui est nécessaire
+    pour Bootstrap) et une petite librairie (qui utilise Boostrap) qui permet
+    d'afficher des étoiles pour les critiques.
+
+    \section{Resultats}
+    
+
+    \subsection{Conclusion}
+
+
+    \newpage
+
+    \section{Annexe}
+    \subsection{Code projections.xsl}
+    \lstinputlisting[language=XSLT]{../Source/projections.xsl}
+
+\end{document}
