@@ -125,7 +125,7 @@
 
 	<xsl:template match="acteur" mode="liste">
 
-		<xsl:variable name="actorName" select="translate(nom,' ','')"/>
+		<xsl:variable name="actorName" select="translate(translate(nom,',',''),' ','')"/>
 		<a href="#{$actorName}-details" data-toggle="modal">
 			<li>
 				<xsl:value-of select="nom"/>
@@ -136,7 +136,7 @@
 
 	<xsl:template match="acteur" mode="details">
 
-		<xsl:variable name="actorName" select="translate(nom,' ','')"/>
+		<xsl:variable name="actorName" select="translate(translate(nom,',',''),' ','')"/>
 		<div class="modal fade" tabindex="-1" role="dialog" id="{$actorName}-details">
 			<div class="modal-dialog">
 				<div class="modal-content">
@@ -202,7 +202,9 @@
 					<xsl:value-of select="duree"/>
 					min.,
 
-					<xsl:value-of select="../date"/>
+					<xsl:value-of select="../date"/>,
+
+					salle num. <xsl:value-of select="../salleNum"/>
 
 				</h5>
 				<p><xsl:value-of select="synopsis"/></p>
@@ -241,8 +243,8 @@
 							<div class="panel-body">
 
 								<xsl:for-each select="./genre">
-									<span><xsl:value-of select="."/>,
-									</span>
+									<button class="btn btn-default btn-xs disabled" ><xsl:value-of select="."/>
+								</button>
 								</xsl:for-each>
 							</div>
 						</div>
@@ -260,15 +262,56 @@
 							<div class="panel-body">
 
 								<xsl:for-each select="./motcle">
-									<span><xsl:value-of select="."/>,
-									</span>
+									<button class="btn btn-default btn-xs disabled" ><xsl:value-of select="."/>
+								</button>
+								</xsl:for-each>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingLangue-{$pseudoId}">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-{$pseudoId}" href="#langue-{$pseudoId}" aria-expanded="false" aria-controls="langue-{$pseudoId}">
+									Langue
+								</a>
+							</h4>
+						</div>
+						<div id="langue-{$pseudoId}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingLangue-{$pseudoId}">
+							<div class="panel-body">
+
+								<xsl:for-each select="./langage">
+									<button class="btn btn-default btn-xs disabled" ><xsl:value-of select="."/>
+								</button>
+								</xsl:for-each>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingReview-{$pseudoId}">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-{$pseudoId}" href="#review-{$pseudoId}" aria-expanded="false" aria-controls="review-{$pseudoId}">
+									Critiques
+								</a>
+							</h4>
+						</div>
+						<div id="review-{$pseudoId}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingReview-{$pseudoId}">
+							<div class="panel-body">
+
+								<xsl:for-each select="./critique">
+									<div>
+										<xsl:variable name="reviewRating" select="note"/>
+										<div class="stars" data-rate-value="{$reviewRating}"></div>
+										<xsl:value-of select="texte"/>
+								</div>
 								</xsl:for-each>
 							</div>
 						</div>
 					</div>
 
 					<!--
-					#TODO LANGUE, Horaire et critique des films
+					#TODO LANGUE, Salle utilisee et critique des films
 				-->
 
 				</div>

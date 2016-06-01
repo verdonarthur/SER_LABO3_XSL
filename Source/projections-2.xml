@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE projections SYSTEM "Plex_Admin_Data.dtd">
+<?xml-stylesheet type="text/xsl" href="projections.xsl"?>
+
+<projections>
+  <projection>
+    <date>2016-04-29 12:31:25</date>
+    <salleNum>Flon 1</salleNum>
+    <film>
+      <titre>Casino Royale</titre>
+      <synopsis>Casino Royale introduces James Bond before he holds his license to kill. But Bond is no less dangerous, and with two professional assassinations in quick succession, he is elevated to '00' status. Bond's first 007 mission takes him to Uganda where he is to spy on a terrorist, Mollaka. Not everything goes to plan and Bond decides to investigate, independently of MI6, in order to track down the rest of the terrorist cell. Following a lead to the Bahamas, he encounters Dimitrios and his girlfriend, Solange. He learns that Dimitrios is involved with Le Chiffre, banker to the world's terrorist organizations. Secret Service intelligence reveals that Le Chiffre is planning to raise money in a high-stakes poker game in Montenegro at Le Casino Royale. MI6 assigns 007 to play against him, knowing that if Le Chiffre loses, it will destroy his organization. 'M' places Bond under the watchful eye of the beguiling Vesper Lynd. At first skeptical of what value Vesper can provide, Bond's interest in her deepens as they brave danger together and even torture at the hands of Le Chiffre. In Montenegro, Bond allies himself with Mathis MI6's local field agent, and Felix Leiter who is representing the interests of the CIA. The marathon game proceeds with dirty tricks and violence, raising the stakes beyond blood money and reaching a terrifying climax.</synopsis>
+      <duree>144</duree>
+      <genre>Thriller</genre>
+      <genre>Adventure</genre>
+      <genre>Action</genre>
+      <motcle>lagoon</motcle>
+      <motcle>gambling-syndicate</motcle>
+      <motcle>foot-pursuit</motcle>
+      <motcle>corpse</motcle>
+      <motcle>fire-sprinkler</motcle>
+      <motcle>assassin</motcle>
+      <motcle>tied-to-a-chair</motcle>
+      <motcle>penumbra</motcle>
+      <motcle>woman-drowned</motcle>
+      <motcle>silencer</motcle>
+      <motcle>surprise-ending</motcle>
+      <motcle>mass-murder</motcle>
+      <motcle>violence</motcle>
+      <motcle>male-nudity</motcle>
+      <motcle>prequel-to-sequel</motcle>
+      <motcle>construction-site</motcle>
+      <motcle>helicopter</motcle>
+      <motcle>blood</motcle>
+      <motcle>espionage</motcle>
+      <motcle>drowning</motcle>
+      <motcle>tanker</motcle>
+      <motcle>assassination</motcle>
+      <motcle>terrorism</motcle>
+      <motcle>horse</motcle>
+      <motcle>machine-gun</motcle>
+      <motcle>secret-device</motcle>
+      <motcle>police-arrest</motcle>
+      <motcle>hotel</motcle>
+      <motcle>corporal-punishment</motcle>
+      <motcle>gunfight</motcle>
+      <motcle>rogue-agent</motcle>
+      <motcle>wager</motcle>
+      <motcle>nassau-bahamas</motcle>
+      <motcle>villa</motcle>
+      <motcle>hospital</motcle>
+      <motcle>horse-and-carriage</motcle>
+      <motcle>foot-chase</motcle>
+      <motcle>motorboat</motcle>
+      <motcle>machete</motcle>
+      <motcle>madagascar</motcle>
+      <motcle>crane</motcle>
+      <motcle>hammock</motcle>
+      <motcle>off-screen-murder</motcle>
+      <motcle>prague-czech-republic</motcle>
+      <motcle>bare-chested-male-bondage</motcle>
+      <motcle>passport</motcle>
+      <motcle>mongoose</motcle>
+      <motcle>montenegro</motcle>
+      <motcle>italy</motcle>
+      <motcle>money-laundering</motcle>
+      <motcle>flipping-car</motcle>
+      <motcle>psychopath</motcle>
+      <motcle>explosion</motcle>
+      <motcle>building-collapse</motcle>
+      <motcle>stairwell</motcle>
+      <motcle>martini</motcle>
+      <motcle>cocktail</motcle>
+      <motcle>strangulation</motcle>
+      <motcle>death</motcle>
+      <motcle>martial-arts</motcle>
+      <motcle>airplane</motcle>
+      <motcle>terrorist</motcle>
+      <motcle>2000s</motcle>
+      <motcle>spa</motcle>
+      <motcle>heart-attack</motcle>
+      <motcle>hostage</motcle>
+      <motcle>south-africa</motcle>
+      <motcle>prisoner</motcle>
+      <motcle>eye-patch</motcle>
+      <motcle>held-at-gunpoint</motcle>
+      <motcle>snake</motcle>
+      <motcle>walther-p99</motcle>
+      <motcle>pistol</motcle>
+      <motcle>beach-resort</motcle>
+      <motcle>shot-in-the-forehead</motcle>
+      <motcle>killed-in-an-elevator</motcle>
+      <motcle>taser</motcle>
+      <motcle>beating</motcle>
+      <motcle>drugged-drink</motcle>
+      <motcle>gambling</motcle>
+      <motcle>police-officer</motcle>
+      <motcle>balisong</motcle>
+      <motcle>hotel-receptionist</motcle>
+      <motcle>damsel-in-distress</motcle>
+      <motcle>fatal-attraction</motcle>
+      <motcle>body-bag</motcle>
+      <motcle>double-agent</motcle>
+      <motcle>stabbed-in-the-chest</motcle>
+      <motcle>arch-villain</motcle>
+      <motcle>murder-by-gunshot</motcle>
+      <motcle>bomb</motcle>
+      <motcle>exploding-bus</motcle>
+      <motcle>shootout</motcle>
+      <motcle>suspense</motcle>
+      <motcle>shower</motcle>
+      <motcle>official-james-bond-series</motcle>
+      <motcle>video-camera</motcle>
+      <motcle>playing-cards</motcle>
+      <motcle>animated-credits</motcle>
+      <motcle>electrocution</motcle>
+      <motcle>secret-agent</motcle>
+      <motcle>miami-florida</motcle>
+      <motcle>parkour</motcle>
+      <motcle>neck-breaking</motcle>
+      <motcle>ak-47</motcle>
+      <motcle>sailing-boat</motcle>
+      <motcle>returning-character-with-different-actor</motcle>
+      <motcle>double-cross</motcle>
+      <motcle>crushed-to-death</motcle>
+      <motcle>based-on-novel</motcle>
+      <motcle>pinball-machine</motcle>
+      <motcle>beach</motcle>
+      <motcle>venice-italy</motcle>
+      <motcle>poison</motcle>
+      <motcle>lifting-male-in-air</motcle>
+      <motcle>tough-guy</motcle>
+      <motcle>lifting-someone-into-the-air</motcle>
+      <motcle>femme-fatale</motcle>
+      <motcle>secret-service</motcle>
+      <motcle>torture</motcle>
+      <motcle>horse-riding</motcle>
+      <motcle>british-secret-service</motcle>
+      <motcle>lost-love</motcle>
+      <motcle>exploding-body</motcle>
+      <motcle>reboot-of-series</motcle>
+      <motcle>attempted-poisoning</motcle>
+      <motcle>shot-in-the-head</motcle>
+      <motcle>security-camera</motcle>
+      <motcle>bahamas</motcle>
+      <motcle>bond-girl</motcle>
+      <motcle>fight</motcle>
+      <motcle>casino</motcle>
+      <motcle>title-spoken-by-character</motcle>
+      <motcle>cia-agent</motcle>
+      <motcle>africa</motcle>
+      <motcle>sequel-mentioned-during-end-credits</motcle>
+      <motcle>car-accident</motcle>
+      <motcle>shot-in-the-foot</motcle>
+      <motcle>aston-martin</motcle>
+      <motcle>money</motcle>
+      <motcle>sequel</motcle>
+      <motcle>banker</motcle>
+      <motcle>chase</motcle>
+      <motcle>shot-in-the-back</motcle>
+      <motcle>origin-story</motcle>
+      <motcle>hit-in-the-crotch</motcle>
+      <motcle>action-hero</motcle>
+      <motcle>train</motcle>
+      <motcle>shot-in-the-leg</motcle>
+      <motcle>poisoned</motcle>
+      <motcle>cult-film</motcle>
+      <motcle>adultery</motcle>
+      <motcle>infidelity</motcle>
+      <motcle>altered-version-of-studio-logo</motcle>
+      <motcle>car-chase</motcle>
+      <motcle>restaurant</motcle>
+      <motcle>siren</motcle>
+      <motcle>jungle</motcle>
+      <motcle>darkroom</motcle>
+      <motcle>cult-figure</motcle>
+      <motcle>gadget-car</motcle>
+      <motcle>black-and-white-prologue</motcle>
+      <motcle>dead-woman</motcle>
+      <motcle>flashback</motcle>
+      <motcle>blood-spatter</motcle>
+      <motcle>dead-woman-with-eyes-open</motcle>
+      <motcle>swimming</motcle>
+      <motcle>shot-in-the-eye</motcle>
+      <motcle>henchman</motcle>
+      <motcle>newspaper-headline</motcle>
+      <motcle>lifting-an-adult-into-the-air</motcle>
+      <motcle>terrorist-base</motcle>
+      <motcle>gadget</motcle>
+      <motcle>bodyworks</motcle>
+      <motcle>soldier</motcle>
+      <motcle>dead-girl</motcle>
+      <motcle>exhibit</motcle>
+      <motcle>embassy</motcle>
+      <motcle>blood-on-shirt</motcle>
+      <motcle>stabbing</motcle>
+      <motcle>london-england</motcle>
+      <motcle>village</motcle>
+      <motcle>blockbuster</motcle>
+      <motcle>super-villain</motcle>
+      <motcle>plot-twist</motcle>
+      <motcle>trapped-in-an-elevator</motcle>
+      <motcle>airport</motcle>
+      <motcle>poker-the-card-game</motcle>
+      <motcle>murder</motcle>
+      <motcle>police-car</motcle>
+      <motcle>shotgun</motcle>
+      <motcle>slow-motion-scene</motcle>
+      <motcle>flood</motcle>
+      <motcle>yacht</motcle>
+      <motcle>surveillance</motcle>
+      <motcle>shot-in-the-chest</motcle>
+      <motcle>army</motcle>
+      <motcle>laptop-computer</motcle>
+      <motcle>free-running</motcle>
+      <motcle>uganda</motcle>
+      <motcle>cell-phone</motcle>
+      <motcle>computer</motcle>
+      <langage>French</langage>
+      <langage>English</langage>
+      <role place="6">
+        <personnage>Rene Mathis</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Giancarlo Giannini is an Oscar-nominated Italian actor, director and multilingual dubber who made an international reputation for his leading roles in Italian films as well as for his mastery of a variety of languages and dialects. He was born August 1, 1942, in La Spezia, Italy. For ten years young Giannini lived and studied in Naples, earning his degree in electronics. At the age of 18 he enrolled in the Academy of Dramatic Art D'Amico in Rome, making his stage acting debut there. His credits included performances in contemporary Italian plays, as well, as in Italian productions of 'William Shakespeare (I)' (qv)'s plays "Romeo and Juliet" and "A Midsummer's Night Dream". In 1965 he made his debut on television starring as David Copperfield in the TV mini-series made by RAI, the Italian national TV company. He made his big-screen debut in _Libido (1965)_ (qv), a Freudian psychological thriller. Since 1966 he has been in a successful collaboration with the legendary Italian director 'Lina Wertmüller' (qv), who made several award-winning films with Giannini as a male lead. He appears as peasant Tonino who prepares to assassinate dictator 'Benito Mussolini' (qv) in _Film d'amore e d'anarchia, ovvero 'stamattina alle 10 in via dei Fiori nella nota casa di tolleranza...' (1973)_ (qv), as a sailor in the irony-laden comedy _Travolti da un insolito destino nell'azzurro mare d'agosto (1974)_ (qv) and as a survivor of a concentration camp in the Oscar-nominated _Pasqualino Settebellezze (1975)_ (qv). He also starred as a Jewish musician arrested by the Nazis in 'Rainer Werner Fassbinder' (qv)'s masterpiece _Lili Marleen (1981)_ (qv). Giannini also made a reputation for dubbing international stars in films released on the Italian market, such as 'Jack Nicholson (I)' (qv), 'Al Pacino' (qv), 'Michael Douglas (I)' (qv), 'Dustin Hoffman' (qv), 'Gérard Depardieu' (qv) and 'Ian McKellen' (qv), among others. He received a compliment from 'Stanley Kubrick' for his dubbing of Nicholson in _The Shining (1980)_ (qv). Giannini's fluency in English and his mastery of dialects has brought him a number of supporting roles in Hollywood productions, such as _A Walk in the Clouds (1995)_ (qv), _Hannibal (2001)_ (qv), _Darkness (2002)_ (qv) and _Man on Fire (2004)_ (qv), among many others. He appears as Rene Mathis in the 21st James Bond film _Casino Royale (2006)_ (qv), and reprises the role in the sequel, _Quantum of Solace (2008)_ (qv).</biographie>
+          <date_naissance>1942-08-01 00:00:00</date_naissance>
+          <nom>Giannini, Giancarlo</nom>
+        </acteur>
+      </role>
+      <role place="13">
+        <personnage>Carlos</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1974-07-22 00:00:00</date_naissance>
+          <nom>Santamaria, Claudio</nom>
+        </acteur>
+      </role>
+      <role place="34">
+        <personnage>Card Players</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Gold, John</nom>
+        </acteur>
+      </role>
+      <role place="15">
+        <personnage>Dryden</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Malcolm Sinclair read drama and theology at the University of Hull and then went on to do a one year post-graduate acting course at Bristol Old Vic Theatre School. After seven years in different repertory companies around the country he made his London debut in 1985 at the Notting Hill Gate Theatre in Arthur Schnitzler's play 'Anatole', which he describes as the first thing that got him noticed. Since then he has appeared with both the National and Royal Shakespeare companies and has taken on musical roles in the likes of 'Privates On Parade' and 'My Fair lady'. On television he has been bumped off several times in who-dunnit mystery dramas though he stayed the course as supercilious Assistant Chief Constable Freddie Fisher in 'Pie In the Sky'. In July 2010 he was elected the president of the Equity actors' union.</biographie>
+          <date_naissance>1950-06-05 00:00:00</date_naissance>
+          <nom>Sinclair, Malcolm</nom>
+        </acteur>
+      </role>
+      <role place="16">
+        <personnage>Adolph Gettler</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born in Heidelberg; a curious and shy boy; found the key for his world through passion for music, dance and theater; Richard studied music and drama in Germany, acting and direction in France and method acting with Susan Strasberg and Francesca de Sapio in Italy. He first went on stage in 1981 at the local theater Hildesheim, then, from 1983 in France on independent stages, at national theaters and in the streets. In 1989 he moved to Italy and met Susan Strasberg: His cinema debut was in 1990 starring in "Il Piacere delle Carni" by Barbara Barni. In 1993, he moved to Paris and got the leading role in the film version of Brechts/Eislers" The Lindbergh's Flight". Since then he has worked on film, television, theater and dance productions all over Europe, in Canada, South Africa, USA, Macedonia, Morocco which brought him happiness and a lot of richly diversified creative and thrilling experiences Richard lives in Berlin and Paris since 2007. He speaks 5 languages fluently, travels a lot and loves to be challenged.</biographie>
+          <date_naissance>1960-01-01 00:00:00</date_naissance>
+          <nom>Sammel, Richard</nom>
+        </acteur>
+      </role>
+      <role place="51">
+        <personnage>Obanno's Lieutenant</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1966-10-04 00:00:00</date_naissance>
+          <nom>Offei, Michael</nom>
+        </acteur>
+      </role>
+      <role place="21">
+        <personnage>Leo</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Avena, Emmanuel</nom>
+        </acteur>
+      </role>
+      <role place="56">
+        <personnage>Croatian General</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Kulhavý, Vladimír</nom>
+        </acteur>
+      </role>
+      <role place="12">
+        <personnage>Villiers</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Tobias was born in London. He graduated from the Royal Academy of Dramatic Art (RADA) in 1998 and began his acting career in popular UK series such as Foyle's War, Midsomer Murders, and Casualty. He also appeared in the controversial drama A Very Social Secretary. He is best known to international audiences as Marcus Junius Brutus in the television series Rome. He had a major film role in The Low Down with Aidan Gillen and featured in the 2006 reboot of the James Bond franchise, Casino Royale. 2007 sees him appearing as William Elliot in ITV's production of Jane Austin's classic book, Persuasion and as Derrick Sington in the Channel 4 drama The Relief of Belsen. On stage, his credits include the young teacher Irwin in Alan Bennett's The History Boys and Michael Blakemore's West End production of Three Sisters for which he was nominated for the Ian Charleson Award. He was a critically acclaimed Hamlet in Rupert Goold's Hamlet at the Royal Theatre.</biographie>
+          <date_naissance>1974-03-07 00:00:00</date_naissance>
+          <nom>Menzies, Tobias</nom>
+        </acteur>
+      </role>
+      <role place="33">
+        <personnage>Schultz</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1960-12-17 00:00:00</date_naissance>
+          <nom>Tarrach, Jürgen</nom>
+        </acteur>
+      </role>
+      <role place="36">
+        <personnage>Card Players</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Hartford, Diane</nom>
+        </acteur>
+      </role>
+      <role place="10">
+        <personnage>Mr. White</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born 1948 in central Copenhagen. Lived there ever since. Did 25 years of theatre, - like Alceste in the Misanthropist, Richard in Richard lll (solo), Faust in Faust, Astrov in Vanja, a lot of worried men,- stopped doing it in 1998. Since then only worried men on film. Worked on more than 100 films by Per Fly, Marc Forster, John Madden, Lone Scherfig, Sydney Pollack, Jan Troell, Martin Campbell, Anette K Olesen, Pernille Fischer Christensen, and others. Since 2000 lives with Tove Bornhoeft, wonderful Danish theatre manager/director/actress. Two grown up daughters. No animals. Dogs, pigs, chickens, cats, birds, horses, fish, rabbits - all gone now.</biographie>
+          <date_naissance>1948-05-16 00:00:00</date_naissance>
+          <nom>Christensen, Jesper</nom>
+        </acteur>
+      </role>
+      <role place="43">
+        <personnage>MI6 Technician</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Notley, Peter</nom>
+        </acteur>
+      </role>
+      <role place="39">
+        <personnage>Hot Room Doctors</personnage>
+        <acteur sexe="MASCULIN">
+          <date_deces>0012-01-01 00:00:00</date_deces>
+          <date_naissance>1960-05-04 00:00:00</date_naissance>
+          <nom>Bhattacharjee, Paul</nom>
+          <nom_naissance>Bhattacharjee, Gautam Paul</nom_naissance>
+        </acteur>
+      </role>
+      <role place="27">
+        <personnage>Kaminofsky</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1952-10-26 00:00:00</date_naissance>
+          <nom>Ristovski, Lazar</nom>
+        </acteur>
+      </role>
+      <role place="66">
+        <personnage>Disapproving Man</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1978-04-05 00:00:00</date_naissance>
+          <nom>Simunek, Miroslav</nom>
+        </acteur>
+      </role>
+      <role place="49">
+        <personnage>French News Reporter</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Du Jeu, Félicité</nom>
+        </acteur>
+      </role>
+      <role place="2">
+        <personnage>Vesper Lynd</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Eva Gaëlle Green was born on July 5, 1980, in Paris, France. She has a non-identical twin sister. Her father, Walter Green, is a dentist who appeared in the 1966 film _Au hasard Balthazar (1966)_ (qv). Her mother, 'Marlène Jobert' (qv), is an actress who retired from acting and became a writer of children's books. Eva's mother was born in Algeria, of Sephardi Jewish heritage (during that time, Algeria was part of France), and Eva's father is of Swedish and French descent. Eva left French school at 17. She switched to English in Ramsgate, Kent, and went to the American School in France for one year. She studied acting at Saint Paul Drama School in Paris for three years, then had a 10-week polishing course at the Weber Douglas Academy of dramatic Art in London. She also studied directing at the Tisch School of Arts at New York University. She returned to Paris as an accomplished young actress, and played on stage in several theater productions: "La Jalousie en Trois Fax" and "Turcaret". There she caught the eye of director 'Bernardo Bertolucci' (qv). Green followed a recommendation to work on her English. She studied for two months with an English coach before doing _The Dreamers (2003)_ (qv) with 'Bernardo Bertolucci' (qv). During their work Bertolucci described Green as being "so beautiful it's indecent." Green won critical acclaim for her role in _The Dreamers (2003)_ (qv). She also attracted a great deal of attention from male audiences for her full frontal nudity in several scenes of the film. Besides her work as an actress Green also composed original music and recorded several sound tracks for the film score. After The Dreamers Green's career ascended to the level where she revealed more of her multifaceted acting talent. She played the love interest of cult French gentleman stealer _Arsène Lupin (2004)_ (qv) opposite 'Romain Duris' (qv). In 2005 she co-starred opposite 'Orlando Bloom' (qv) and 'Liam Neeson' (qv) in _Kingdom of Heaven (2005)_ (qv) produced and directed by 'Ridley Scott' (qv). The film brought her a wider international exposure. She turned down the femme fatale role in The Black Dahlia that went to 'Hilary Swank' (qv) because she didn't want to end up always typecast as a femme fatale after her role in The Dreamers. Instead, Eva Green accepted the prestigious role of Vesper Lynd, one of three Bond girls, opposite 'Daniel Craig (I)' (qv) in _Casino Royale (2006)_ (qv) and became the 5th French actress to play a James Bond girl after 'Claudine Auger' (qv) in _Thunderball (1965)_ (qv), 'Corinne Cléry (I)' (qv) in _Moonraker (1979)_ (qv), 'Carole Bouquet' (qv) in _For Your Eyes Only (1981)_ (qv) and 'Sophie Marceau' (qv) in The World is not enough (1999). Since her school years Green has been a cosmopolitan multilingual and multicultural person. Yet, since her father always lived in France with them and her mother, she and her twin sister can't speak Swedish. She developed a wide scope of interests beyond her acting profession and became an aspiring art connoisseur and an avid museum visitor. Her other activities outside of acting include playing and composing music, cooking at home, walking her terrier, and collecting art. She shares time between her two residencies, one is in Paris, France, and one in London, England.</biographie>
+          <date_naissance>1980-07-05 00:00:00</date_naissance>
+          <nom>Green, Eva</nom>
+          <nom_naissance>Green, Eva Gaëlle</nom_naissance>
+        </acteur>
+      </role>
+      <role place="23">
+        <personnage>Infante</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born in London, in the early seventies, Ade tried his hand at various trades; from selling shoes, tickets for concerts, managing bands, to publishing an international horse racing magazine. Ade was known by Guy Ritchie who cast him as Tyrone the getaway driver in _Snatch. (2000)_ (qv). He then set off on the European press jaunt &amp; traveled to the United States to preview the movie, addressing the audience at Harry Knowles' 24hr film festival at The Alamo, Texas. Ade has since been involved with several other film and TV projects; notably as Infante in the Bond movie _Casino Royale (2006)_ (qv) and Madonna's directorial debut _Filth and Wisdom (2008)_ (qv).</biographie>
+          <nom>Ade</nom>
+        </acteur>
+      </role>
+      <role place="20">
+        <personnage>Kratt</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1972-02-15 00:00:00</date_naissance>
+          <nom>Schick, Clemens</nom>
+        </acteur>
+      </role>
+      <role place="38">
+        <personnage>Tall Man</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Stransky, Leo</nom>
+        </acteur>
+      </role>
+      <role place="47">
+        <personnage>Arresting Officer</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Jezek, Robert</nom>
+        </acteur>
+      </role>
+      <role place="41">
+        <personnage>Hot Room Technicians</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Cox, Simon</nom>
+        </acteur>
+      </role>
+      <role place="45">
+        <personnage>Airport Policemen</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born in Toronto of American and British parents, Peter lives and works internationally. In the USA drama series, The Fugitive Chronicles, he took on the title role in the Danny Ray Horning episode, portraying the wily but misunderstood convict who eluded his pursuers. His television credits also include Dr Who, Sherlock, Small Island, Blood in the Water, The Enemy Within, Billy the Kid, Over Here, The Increasingly Poor Decisions of Todd Margaret and Spooks (or MI5 as it is known in the USA). Peter first took over the role of Captain Jack Ross in the West End's A Few Good Men, written by Aaron Sorkin and also starring Rob Lowe. He then played Phil in the West End premiere of Arthur Miller's Resurrection Blues, directed by the late, great Robert Altman, and produced by Kevin Spacey. He appeared again in the West End as John Williamson in David Mamet's Glengarry Glen Ross with Jonathan Pryce and Aiden Gillen. Appearing in such films as Casino Royale and The Dark Knight, he also plays hippie activist Jerry Rubin in the upcoming Warner Brothers movie Hippie Hippie Shake opposite Cillian Murphy and Sienna Miller. In addition, he is the crazed DJ Phoenix Fox in the upcoming video game Forza Horizon. Recently, Peter has been shooting Red Lights with Robert De Niro, the Swiss film Trained, the 20th Century Fox horror Wrong Turn 5, and, of course, The Dinosaur Project with StudioCanal.</biographie>
+          <nom>Brooke, Peter</nom>
+        </acteur>
+      </role>
+      <role place="7">
+        <personnage>Solange</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Caterina Murino was born on September 15, 1977, in Cagliari, Sardinia, Italy. In 1996 she reached the fourth place in the Miss Italy contest. Then she moved to Milan where she began working as a model in commercials for Mastercard, Swatch, Mercedes Benz, and Nescafe among other gigs. From 1999-2000 she studied acting at the Scuola di Cinema e Teatro di Francesca de Sapio in Italy. In 1999, Murino made her acting debut in a stage production of Richard III and also in several Italian language plays. In 2002 she began her film and television career with playing bit parts in Italian, German, and French productions. Her breakthrough came in 2004, when she co-starred opposite 'Jean Reno (I)' (qv) in a French comedy _L'enquête corse (2004)_ (qv). Ms. Murino is trilingual, she speaks French and English in addition to her native Italian. She is a versatile actress and a good athlete. Her talents include singing, dancing tango, flamenco and oriental dances, as well as horseback riding. She is co-starring as Solange, one of three Bond girls, opposite 'Daniel Craig (I)' (qv) in _Casino Royale (2006)_ (qv).</biographie>
+          <date_naissance>1977-09-15 00:00:00</date_naissance>
+          <nom>Murino, Caterina</nom>
+        </acteur>
+      </role>
+      <role place="14">
+        <personnage>Mollaka</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1974-05-27 00:00:00</date_naissance>
+          <nom>Foucan, Sebastien</nom>
+        </acteur>
+      </role>
+      <role place="30">
+        <personnage>Dealer</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Daniel, Andreas</nom>
+        </acteur>
+      </role>
+      <role place="40">
+        <personnage>Hot Room Doctors</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1969-09-23 00:00:00</date_naissance>
+          <nom>Bonham-Carter, Crispin</nom>
+        </acteur>
+      </role>
+      <role place="50">
+        <personnage>Shop Assistant</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1984-12-19 00:00:00</date_naissance>
+          <nom>Ochotská, Michaela</nom>
+        </acteur>
+      </role>
+      <role place="29">
+        <personnage>Gräfin von Wallenstein</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Her father was a Prussian count (Count von Lehndorff-Steinort) who was involved in a plot to assassinate Hitler in 1944 and hanged that year, when Vera was three. Her mother was arrested, and Vera and her sisters spent the rest of the war in Gestapo camps. They were reunited with their mother after the war, but the family was destitute, and ostracised by other Germans for their father's treachery. She ended up studying textile design in Florence, where a fashion designer first asked her to model. She had first travelled to New York in 1961 as plain old Vera, but failed to secure a single booking. After retreating to Milan for a spell, she returned to take Manhattan under her new name.... Veruschka!</biographie>
+          <date_naissance>1939-05-14 00:00:00</date_naissance>
+          <nom>von Lehndorff, Veruschka</nom>
+          <nom_naissance>von Lehndorff, Countess Vera Gottliebe Anna</nom_naissance>
+        </acteur>
+      </role>
+      <role place="59">
+        <personnage>Treasury Bureaucrat</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1941-09-17 00:00:00</date_naissance>
+          <nom>Meheux, Phil</nom>
+          <nom_naissance>Meheux, Philip</nom_naissance>
+        </acteur>
+      </role>
+      <role place="62">
+        <personnage>Hotel Splendide Clerk</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1971-04-21 00:00:00</date_naissance>
+          <nom>Gabajová, Regina</nom>
+        </acteur>
+      </role>
+      <role place="68">
+        <personnage>Hotel Splendide Limo Driver</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Lenc, Jirí</nom>
+        </acteur>
+      </role>
+      <role place="9">
+        <personnage>Steven Obanno</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Isaach De Bankole, C'sar award-winning actor, was born on the Ivory Coast. Isaach was discovered on the streets of Paris while studying to be an airline pilot. He has a degree in Acting from Cours Simon and a Masters in Mathematics from the Universite de Paris.</biographie>
+          <date_naissance>1957-08-12 00:00:00</date_naissance>
+          <nom>De Bankolé, Isaach</nom>
+        </acteur>
+      </role>
+      <role place="26">
+        <personnage>Gallardo</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1946-09-01 00:00:00</date_naissance>
+          <nom>Levi Leroy, Charlie</nom>
+        </acteur>
+      </role>
+      <role place="69">
+        <personnage>Hermitage Waiter</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Jankovsky, Jaroslav</nom>
+        </acteur>
+      </role>
+      <role place="48">
+        <personnage>Pilot</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Slade, Robert G.</nom>
+        </acteur>
+      </role>
+      <role place="28">
+        <personnage>Fukutu</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>So, Tom</nom>
+        </acteur>
+      </role>
+      <role place="53">
+        <personnage>Chief of Police</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1943-01-21 00:00:00</date_naissance>
+          <nom>Wilson, Michael G.</nom>
+          <nom_naissance>Wilson, Michael Gregg</nom_naissance>
+        </acteur>
+      </role>
+      <role place="63">
+        <personnage>Cola Kid</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Ebun-Cole, Olutunji</nom>
+        </acteur>
+      </role>
+      <role place="5">
+        <personnage>Felix Leiter</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Quite possibly the most underrated and underexposed actor of his caliber and generation, Jeffrey Wright's undeniable talent and ability to successfully bring to life any role he undertakes is on a par with the most praised and revered A-list actors in the business. Born and raised in Washington DC, Wright graduated from the prestigious Amherst college in 1987. Although he studied Political Science while at Amherst, Wright left the school with something that would prove to be more valuable: a love for acting. Shortly after graduating he won an acting scholarship to NYU, but dropped out after only two months to pursue acting full time. With roles in 1990's Presumed Innocent, and the Broadway production of Angels in America, (in which he won a well deserved Tony award), within a relatively short time Wright was able to show off his exceptional talent and ability on both stage and screen alike. His first major on-screen performance came in 1996 in the Julian Schnabel directed film Basquiat. Wright's harrowing performance as the late painter Jean Michele Basquiat was critically acclaimed for its haunting accuracy and raw emotion. With a Tony, a Golden Globe, and an AFI award under his belt, the intensity of Wright's skill has been proven over and over again. Hopefully the near future will bring an influx of more varied lead roles for black actors so that Wright can continue to astonish his colleagues, critics and fans alike with the intensity of his skill.</biographie>
+          <date_naissance>1965-12-07 00:00:00</date_naissance>
+          <nom>Wright, Jeffrey</nom>
+        </acteur>
+      </role>
+      <role place="24">
+        <personnage>Tomelli</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1961-09-18 00:00:00</date_naissance>
+          <nom>Barberini, Urbano</nom>
+        </acteur>
+      </role>
+      <role place="52">
+        <personnage>Obanno's Liaison</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Diaw, Makhoudia</nom>
+        </acteur>
+      </role>
+      <role place="3">
+        <personnage>Le Chiffre</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Mads Mikkelsen is a synonym to the great success the Danish film industry has had since the mid-1990s. Starting out as a low-life pusher/junkie in the 1996 success _Pusher (1996)_ (qv), he slowly grew to become one of Denmark's biggest movie actors. The success in his home country includes _Blinkende lygter (2000)_ (qv), _En kort en lang (2001)_ (qv) and the Emmy-winning police series _"Rejseholdet" (2000)_ (qv). His success has taken him abroad where he has played alongside 'Gérard Depardieu' (qv) in _I Am Dina (2002)_ (qv) as well as in the Spanish comedy _Torremolinos 73 (2003)_ (qv) and the American blockbuster _King Arthur (2004)_ (qv).</biographie>
+          <date_naissance>1965-11-22 00:00:00</date_naissance>
+          <nom>Mikkelsen, Mads</nom>
+          <nom_naissance>Mikkelsen, Mads Dittman</nom_naissance>
+        </acteur>
+      </role>
+      <role place="4">
+        <personnage>M</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Attended Mount School in York, and studied at the Central School of Speech and Drama. She has performed with Royal Shakespeare Company, the National Theatre, and at Old Vic Theatre. She is a ten-time BAFTA winner including Best Actress in a Comedy Series for _"A Fine Romance" (1981)_ (qv) in which she appeared with her husband, 'Michael Williams (I)' (qv), and Best Supporting Actress in _A Handful of Dust (1988)_ (qv) and _A Room with a View (1985)_ (qv) . She received an ACE award for her performance in the television series _Mr. and Mrs. Edgehill (1985) (TV)_ (qv). She was made an Officer of the Order of the British Empire in 1970, and was created Dame of Order of the British Empire in 1988.</biographie>
+          <date_naissance>1934-12-09 00:00:00</date_naissance>
+          <nom>Dench, Judi</nom>
+          <nom_naissance>Dench, Judith Olivia</nom_naissance>
+        </acteur>
+      </role>
+      <role place="44">
+        <personnage>Police Commander</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Chancer, John</nom>
+        </acteur>
+      </role>
+      <role place="35">
+        <personnage>Card Players</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Inzerillo, Jerry</nom>
+        </acteur>
+      </role>
+      <role place="54">
+        <personnage>Police Chief's Girlfriends</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Duravolá, Martina</nom>
+        </acteur>
+      </role>
+      <role place="46">
+        <personnage>Airport Policemen</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Durran, Jason</nom>
+        </acteur>
+      </role>
+      <role place="65">
+        <personnage>Waitress</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Ten years before Czechoslovakia separated, Vlastina was born to Czechoslovakian parents: a Slovak mother and Czech (or shall we say, Moravian) father. She attended elementary and a high school in the Slovak town of Myjava. She studied piano for fifteen years and also took in drawings and singing lessons. She also studied writing and reciting poems. Even though Vlastina had wanted become an actress since childhood, she made two detours along the way. She studied Mass Communication as well as the Commenius University in Bratislava, where she got her Master. Her first feature was Casino Royale by Martin Campbell, where she got a part in the casino. Then she continued in The Red Baron, Dark Spirits, Women in Temptation. She got a role of an American spy in television film The Rhythm at their heels. A story set in the early 1950s, when the communist regime in Czechoslovakia mercilessly wiped out the remaining elements of the free world. A bunch of naive young people associated with a coffee-house jazz band were easy prey for the pitiless State Security men. In 2009 she got a part of a nurse Tereza in thriller Unknown Hour - a not very fictive story of a man, known in fact as "the hospital murderer". In 2010 she started to shoot a historical epic The Danube Saga where she performed the main character of Elena Unger. Saga, a concatenation of stories of one's line. Vlastina is also performing in theater and writing books.</biographie>
+          <date_naissance>1982-03-09 00:00:00</date_naissance>
+          <nom>Svátková, Vlastina</nom>
+        </acteur>
+      </role>
+      <role place="18">
+        <personnage>Carter</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1974-01-01 00:00:00</date_naissance>
+          <nom>Millson, Joseph</nom>
+        </acteur>
+      </role>
+      <role place="37">
+        <personnage>Dealer</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Miller, Jessica</nom>
+        </acteur>
+      </role>
+      <role place="25">
+        <personnage>Madame Wu</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Tsai Chin, pinyin Zhou Caiqin is an actor, director, teacher and author, best known in America for her film role as Auntie Lindo in The Joy Luck Club. The third daughter of Zhou Xinfang, China's great actor in the last century, she was trained at the Royal Academy of Dramatic Art London (first Chinese student) and later earned a Master Degree at Tufts University, Boston. Her career spans more than five decades working in UK, USA and recently in China. She starred on stage on both sides of the atlantic, (a first for a Chinese actor) in London's West End,The World of Susie Wong and on Broadway, Golden Child; played the two most powerful women of 20th century China; for television, in The Subject of Struggle; for stage Memories of Madame Mao; was twice in Bond films, as Bond girl in You Only Live Twice, and later in Casino Royale. Her single The Ding Dong Song recorded for Decca was top of the charts in Asia. She was the first to be invited to teach acting in China after the Cultural Revolution when universities re-opened. She is now celebrated in China for her portrayal of Jia Mu in the recent TV drama series, The Dream of The Red Chamber. Her international best-selling autobiography, Daughter of Shanghai is to be a stage play by David Henry Hwang which will be produced by the Wallis Annenberg Center for the Perfoming Arts in Beverly Hills.</biographie>
+          <date_naissance>1936-11-30 00:00:00</date_naissance>
+          <nom>Chin, Tsai</nom>
+          <nom_naissance>Zhou, Tsai Chin</nom_naissance>
+        </acteur>
+      </role>
+      <role place="58">
+        <personnage>Bartender</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Pelech, Dusan</nom>
+        </acteur>
+      </role>
+      <role place="1">
+        <personnage>James Bond</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Daniel Craig, one of British theatre's most famous faces who was waiting tables as a struggling teenage actor with the NYT, went on to star as "James Bond" in _Casino Royale (2006)_ (qv), _Quantum of Solace (2008)_ (qv) and _Skyfall (2012)_ (qv). He was born Daniel Wroughton Craig on March 2, 1968, at 41 Liverpool Road, Chester, Cheshire, England. His father, Tim Craig, was a merchant seaman turned steel erector, then became landlord of "Ring O' Bells" pub in Frodsham, Cheshire. His mother, Carol Olivia Craig, was an art teacher. His parents split up in 1972, and young Daniel Craig was raised with his older sister, Lea, in Liverpool, then in Hoylake, Wirral, in the home of his mother. His interest in acting was encouraged by visits to the Liverpool Everyman Theatre arranged by his mother. From the age of 6, Craig started acting in school plays, making his debut in the Frodsham Primary School production of "Oliver!", and his mother was the driving force behind his artistic aspirations. The first Bond movie he ever saw at the cinema was 'Roger Moore (I)' (qv)'s _Live and Let Die (1973)_ (qv); young Daniel Craig saw it with his father, so it took a special place in his heart. He was also a good athlete and was a rugby player at Hoylake Rugby Club. At the age of 14, Craig played roles in "Oliver", "Romeo and Juliet" and "Cinderella" at Hilbre High School in West Kirby, Wirral, UK. He left Hilbre High at 16 to audition at the National Youth Theatre's (NYT) troupe on their tour in Manchester in 1984. He was accepted and moved down to London. There, his mother and father watched his stage debut as "Agamemnon" in Shakespeare's "Troilus and Cressida". As a struggling actor with the NYT, he was toiling in restaurant kitchens and as a waiter. Craig performed with NYT on tours to Valencia, Spain, and to Moscow, Russia, under the leadership of director 'Edward Wilson (I)' (qv). He failed at repeated auditions at the Guildhall, but eventually his persistence paid off, and in 1988, he entered the Guildhall School of Music and Drama at the Barbican. There, he studied alongside 'Ewan McGregor' (qv) and 'Alistair McGowan' (qv), then later 'Damian Lewis (I)' (qv) and 'Joseph Fiennes' (qv), among others. He graduated in 1991, after a three-year course under the tutelage of 'Colin McCormack (I)' (qv), the actor from the Royal Shakespeare Company. From 1992-1994, he was married to Scottish actress Fiona Loudon, their daughter, named 'Ella Craig' (qv), was born in 1992. Daniel Craig made his film debut in _The Power of One (1992)_ (qv). His film career continued on television, notably the BBC2 serial _"Our Friends in the North" (1996)_ (qv). He shot to international fame after playing supporting roles in _Lara Croft: Tomb Raider (2001)_ (qv) and _Road to Perdition (2002)_ (qv). He was nominated for his performances in the leading role in _Layer Cake (2004)_ (qv), and received other awards and nominations. Craig was named as the sixth actor to portray "James Bond", in October of 2005, weeks after he finished his work in _Munich (2005)_ (qv), where he co-starred with 'Eric Bana' (qv) under the directorship of 'Steven Spielberg' (qv). Craig's reserved demeanor and his avoidance of the showbiz-party-red-carpet milieu makes him a cool "007". He is the first blonde actor to play Bond, and also the first to be born after the start of the film series, and also the first to be born after the death of author 'Ian Fleming (I)' (qv) in 1964. Four of the past Bond actors: 'Sean Connery' (qv), 'Roger Moore (I)' (qv), 'Timothy Dalton' (qv) and 'Pierce Brosnan' (qv) have indicated that Craig is a good choice as "Bond".</biographie>
+          <date_naissance>1968-03-02 00:00:00</date_naissance>
+          <nom>Craig, Daniel</nom>
+          <nom_naissance>Craig, Daniel Wroughton</nom_naissance>
+        </acteur>
+      </role>
+      <role place="61">
+        <personnage>Tennis Girls</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Hladikova, Veronika</nom>
+        </acteur>
+      </role>
+      <role place="11">
+        <personnage>Valenka</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Ivana Milicevic was born on April 26, 1974, in Sarajevo, Bosnia (part of Yugoslavia at that time), into an ethnic Croatian family of Tonka and Damir Milicevic. Ivana has a younger brother, Tomo Milicevic. The family emigrated to the United States, and young Ivana Milicevic was raised in Michigan. She attended Athens High school in Troy, Michigan, and worked as a model during her school years. She became a naturalized citizen of the United States. In 1992, Milicevic graduated from high school and moved to Los Angeles in pursuit of an acting career. She was a struggling stand-up comedienne, trying to win over crowds with her stories of the modeling business. In 1996, she made her film debut under the name Ivana Marina with a one-line role as a Former Girlfriend of 'Tom Cruise' (qv) in _Jerry Maguire (1996)_ (qv). In 1997, she followed up with a guest role on NBC's _"Seinfeld" (1989)_ (qv) and made guest appearances on several other television shows. She played bit parts in _Vanilla Sky (2001)_ (qv) and _Love Actually (2003)_ (qv), among her many other cameo appearances. Milicevic capitalized on her experience as a comedienne in a supporting role as Russian model Roxana Milla Slasnikova in the romantic comedy _Head Over Heels (2001)_ (qv). She appeared as a lookalike of 'Uma Thurman' (qv) opposite 'Ben Affleck' (qv), trying to fool him into thinking she is Uma, in _Paycheck (2003)_ (qv). In a departure from her one-dimensional roles, Milicevic showed her dramatic talent in a supporting role as Milla Yugorsky in a dark and gritty drama _Running Scared (2006)_ (qv). In 2006, she started a recurring role on the CBS TV series _"Love Monkey" (2006)_ (qv). In 2006, Milicevic made a big step forward in her career appearing as Valenka, one of three Bond girls in _Casino Royale (2006)_ (qv), for which she did most of her scenes on locations in Prague and in London. She is currently residing in Los Angeles, California.</biographie>
+          <date_naissance>1974-04-26 00:00:00</date_naissance>
+          <nom>Milicevic, Ivana</nom>
+        </acteur>
+      </role>
+      <role place="42">
+        <personnage>Hot Room Technicians</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Gethings, Rebecca</nom>
+        </acteur>
+      </role>
+      <role place="55">
+        <personnage>Police Chief's Girlfriends</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Martincáková, Marcela</nom>
+        </acteur>
+      </role>
+      <role place="22">
+        <personnage>Stockbroker</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1946-02-27 00:00:00</date_naissance>
+          <nom>Chadbon, Tom</nom>
+        </acteur>
+      </role>
+      <role place="67">
+        <personnage>Venice Hotel Concierge</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1959-04-01 00:00:00</date_naissance>
+          <nom>G'Vera, Ivan</nom>
+          <nom_naissance>Splichal, Ivan</nom_naissance>
+        </acteur>
+      </role>
+      <role place="19">
+        <personnage>Fisher</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Shaw, Darwin</nom>
+        </acteur>
+      </role>
+      <role place="31">
+        <personnage>Tournament Director</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1969-01-01 00:00:00</date_naissance>
+          <nom>Leal, Carlos</nom>
+        </acteur>
+      </role>
+      <role place="8">
+        <personnage>Alex Dimitrios</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Simon Abkarian was born Simone Abkarian on March 5, 1962, in Gonesse, a northeastern suburb of Paris, France, into a French - Armenian family. Young Simon Abkarian grew up in a trilingual environment, he learned French at school in addition to his native Armenian, and also learned English by watching American films since he was a kid. He spent most of his childhood in France until the age of nine, then went with his parents to Beirut, Lebanon. From 1971 to 1977 young Abkarian lived with his mother and father in Lebanon. He studied dancing with the Lori Dance Ensemble in Beirut. There he attended Armenian school and also studied French and English. In 1977, his father went to war in Lebanon, and 15-year-old Abkarian with his mother moved back to Paris. A few years later he moved to New York and continued his studies of dancing and acting at the Antranik company in New York, then moved to Los Angeles, California. In 1983-1985 he studied acting and joined the Armenian Theatre Company Artavadzt of the AGBU under the leadership of director Gerald Papazian. In 1984, he joined the workshop at renown Theatre du Soleil on tour in Los Angeles during the Olympics Art Festival. Abkarian took a month-long acting workshop from Mnouchkine's mask-maker, Georges Bigot, then was auditioned by Ariane Mnouchkine who invited him to join the company. In 1985 Abkarian returned to Paris, France. There he resumed a successful stage acting career, and had an eight-year-long collaboration with Ariane Mnouchkine, the legendary director of Théâtre du Soleil. There he played leading roles in Greek tragedies and became known for his charismatic performances. He also directed several stage plays in Paris, including Shakespeare's 'Love's Labour Lost' at the Bouffles du Nord, and Aeschylus's 'The Last Song of Troy' at Bobigny, among others. In 2001 Abkarian won the highest award in French theatre for an actor - the Prix Molière, for his performance in 'Une Bête Sur La Lune' (aka.. Beast on the Moon). Since 1993, Abkarian and his actress-director wife, Catherine Schaub, started their own theatre T.E.R.A. (Theatre Espace Recherche Acteur) in Paris. There he has been playing and directing classical and contemporary plays. In the season of 2005-2006, he was brought by The Actors' Gang to direct Shakespeare's 'Love's Labor's Lost' in Los Angeles. Abkarian made his film debut in 1989, in a short film 'Ce qui me meut' by director Cédric Klapisch. During his early film career, Abkarian enjoyed a fruitful collaboration with Cédric Klapisch in 6 French films, becoming noticed in the award winning _Chacun cherche son chat (1996)_ (qv). He earned critical acclaim for his portrayal of painter Archil Gorky in 'Atom Egoyan' (qv)'s award winning epic _Ararat (2002)_ (qv). Simon Abkarian won awards for his performance as Eliahou in 'To Take a Wife (2004) by director Ronit Elkabetz. That same year Abkarian gave a stellar performance in his first leading role in English, co-starring as He, a passionate Lebanese doctor turned cook who is in love with an American woman (Joan Allen) in _Yes (2004/I)_ (qv) directed by Sally Potter. He made a step forward in his film career with the supporting role as Alex Dimitros in _Casino Royale (2006)_ (qv), playing in several powerful scenes opposite 'Daniel Craig (I)' (qv). Simon Abkarian has been generously involved in the humanitarian causes of the Armenian people across the world. He has been a frequent participant, host and presenter at numerous charitable events and ceremonies related to the Armenian causes. He was also a member of French President Jacque Chirac's delegation to Armenia in October of 2006.</biographie>
+          <date_naissance>1962-03-05 00:00:00</date_naissance>
+          <nom>Abkarian, Simon</nom>
+          <nom_naissance>Abkarian, Simone</nom_naissance>
+        </acteur>
+      </role>
+      <role place="17">
+        <personnage>Mendel</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1959-03-16 00:00:00</date_naissance>
+          <nom>Pistor, Ludger</nom>
+        </acteur>
+      </role>
+      <role place="32">
+        <personnage>Ocean Club Receptionist</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1982-05-08 00:00:00</date_naissance>
+          <nom>Cole, Christina</nom>
+        </acteur>
+      </role>
+      <role place="57">
+        <personnage>Nambutu Embassy Official</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1970-01-01 00:00:00</date_naissance>
+          <nom>Nonyela, Valentine</nom>
+        </acteur>
+      </role>
+      <role place="60">
+        <personnage>Tennis Girls</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1981-04-11 00:00:00</date_naissance>
+          <nom>Ambrosio, Alessandra</nom>
+          <nom_naissance>Ambrósio, Alessandra Corine</nom_naissance>
+        </acteur>
+      </role>
+      <role place="64">
+        <personnage>Barman</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1955-12-05 00:00:00</date_naissance>
+          <nom>Ucík, Martin</nom>
+        </acteur>
+      </role>
+      <role place="9223372036854775807">
+        <personnage>Airport Staff</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Lasco Atkins was born in Hong Kong in 1980. At an early age he already knew he loved films, mainly action movies starring Arnie, Sly, JCVD, etc. Once at film school he learned a new appreciation for classics, black &amp; whites, 70s, etc. He re-watched old films such as Blade Runner and no longer thought of them as boring but as visual masterpieces. He started making videos of skits with friends and skateboarding videos. At Art College (Surrey Institute in Farnham) he tried video editing for the first time, where he mainly made OTT videos. At Film School he shot on film stock for the first time and edited on Steen-beck also. He developed a wider understanding and appreciation for how films were/are made. Going in only wanting to be a director, he came out of LFS (London Film School) as a cameraman. Once he left film school, he began focus pulling/camera assistant. Eventually he caught the lighting bug. This is extremely helpful for young DP's since they must have a good knowledge of lights and camera. Occasionally directing, he also acts on bigger budget films. He is happy anywhere on a film set, either in front, behind or anywhere as long as the project is valuable and an experience. Lately he has even tried his hands at rapping, appearing in two of his own music videos this year already (2013) known as Lasco Tobasco.</biographie>
+          <nom>Atkins, Lasco</nom>
+        </acteur>
+      </role>
+    </film>
+  </projection>
+  <projection>
+    <date>2016-04-29 12:31:38</date>
+    <salleNum>Flon 2</salleNum>
+    <film>
+      <titre>Quantum of Solace</titre>
+      <synopsis>Is there solace in revenge? Bond and "M" sniff a shadowy international network of power and corruption reaping billions. As Bond pursues the agents of an assassination attempt on "M," all roads lead to Dominic Greene, a world-renowned developer of green technology. Greene, a nasty piece of work, is intent on securing a barren area of Bolivia in exchange for assisting a strongman stage a coup there. The CIA looks the other way, and only Bond, with help from a retired spy and from a mysterious beauty, stands in Greene's way. "M" wonders if she can trust Bond, or if vengeance possesses him. Beyond that, can anyone drawn to Bond live to tell the tale?</synopsis>
+      <duree>106</duree>
+      <genre>Crime</genre>
+      <genre>Adventure</genre>
+      <genre>Action</genre>
+      <genre>Thriller</genre>
+      <motcle>blockbuster</motcle>
+      <motcle>bell</motcle>
+      <motcle>scam</motcle>
+      <motcle>militant</motcle>
+      <motcle>female-rear-nudity</motcle>
+      <motcle>switchblade</motcle>
+      <motcle>bond-girl</motcle>
+      <motcle>horse-race</motcle>
+      <motcle>title-at-the-end</motcle>
+      <motcle>talamone-italy</motcle>
+      <motcle>kazan-russia</motcle>
+      <motcle>betrayal</motcle>
+      <motcle>record-player</motcle>
+      <motcle>range-rover</motcle>
+      <motcle>trust</motcle>
+      <motcle>italy</motcle>
+      <motcle>jumping-from-a-rooftop</motcle>
+      <motcle>businessman</motcle>
+      <motcle>body-floating-in-water</motcle>
+      <motcle>british-intelligence</motcle>
+      <motcle>exile</motcle>
+      <motcle>villain</motcle>
+      <motcle>shootout</motcle>
+      <motcle>forensic-science</motcle>
+      <motcle>rogue-agent</motcle>
+      <motcle>falling-from-height</motcle>
+      <motcle>terrorist-group</motcle>
+      <motcle>tradition</motcle>
+      <motcle>caribbean</motcle>
+      <motcle>hotel</motcle>
+      <motcle>lost-love</motcle>
+      <motcle>knife</motcle>
+      <motcle>terrorism</motcle>
+      <motcle>secret-agent</motcle>
+      <motcle>consulate</motcle>
+      <motcle>jumping-through-a-window</motcle>
+      <motcle>nude-woman-murdered</motcle>
+      <motcle>vendetta</motcle>
+      <motcle>death</motcle>
+      <motcle>murder</motcle>
+      <motcle>axe</motcle>
+      <motcle>la-paz-bolivia</motcle>
+      <motcle>rooftop</motcle>
+      <motcle>intravenous</motcle>
+      <motcle>revenge</motcle>
+      <motcle>yacht</motcle>
+      <motcle>death-threat</motcle>
+      <motcle>boat-chase</motcle>
+      <motcle>thrown-through-a-window</motcle>
+      <motcle>dead-woman-on-bed</motcle>
+      <motcle>shot-in-the-side</motcle>
+      <motcle>festival</motcle>
+      <motcle>phonograph-record</motcle>
+      <motcle>female-agent</motcle>
+      <motcle>quarry</motcle>
+      <motcle>body-in-a-river</motcle>
+      <motcle>central-intelligence-agency</motcle>
+      <motcle>chaos</motcle>
+      <motcle>private-jet</motcle>
+      <motcle>snorricam</motcle>
+      <motcle>driving-a-car-without-a-door</motcle>
+      <motcle>credit-card-declined</motcle>
+      <motcle>motorcycle-cop</motcle>
+      <motcle>stage</motcle>
+      <motcle>blood-on-shirt</motcle>
+      <motcle>tripped</motcle>
+      <motcle>friendship</motcle>
+      <motcle>intelligence</motcle>
+      <motcle>dead-woman</motcle>
+      <motcle>man-wearing-a-wig</motcle>
+      <motcle>ecology</motcle>
+      <motcle>loyalty</motcle>
+      <motcle>tuxedo</motcle>
+      <motcle>general</motcle>
+      <motcle>junta</motcle>
+      <motcle>canadian-expatriate</motcle>
+      <motcle>surveillance</motcle>
+      <motcle>cavern</motcle>
+      <motcle>canadian-spy</motcle>
+      <motcle>shot-to-death</motcle>
+      <motcle>siren</motcle>
+      <motcle>helicopter</motcle>
+      <motcle>silencer</motcle>
+      <motcle>aqueduct</motcle>
+      <motcle>parachute</motcle>
+      <motcle>coup-d'etat</motcle>
+      <motcle>damsel-in-distress</motcle>
+      <motcle>breaking-a-door-handle</motcle>
+      <motcle>south-america</motcle>
+      <motcle>italian</motcle>
+      <motcle>female-spy</motcle>
+      <motcle>action-hero</motcle>
+      <motcle>machine-gun</motcle>
+      <motcle>speedboat</motcle>
+      <motcle>corrupt-cop</motcle>
+      <motcle>dictator</motcle>
+      <motcle>oil</motcle>
+      <motcle>money</motcle>
+      <motcle>framed-for-murder</motcle>
+      <motcle>falling-off-a-cliff</motcle>
+      <motcle>mistaken-identity</motcle>
+      <motcle>motor-oil</motcle>
+      <motcle>parkour</motcle>
+      <motcle>port-au-prince-haiti</motcle>
+      <motcle>naked-dead-woman</motcle>
+      <motcle>car-chase</motcle>
+      <motcle>water-rights</motcle>
+      <motcle>volkswagen-beetle</motcle>
+      <motcle>white-rose</motcle>
+      <motcle>forensic-evidence</motcle>
+      <motcle>sequel-mentioned-during-end-credits</motcle>
+      <motcle>body-landing-on-a-car</motcle>
+      <motcle>opera-singer</motcle>
+      <motcle>london-england</motcle>
+      <motcle>shot-in-the-back</motcle>
+      <motcle>airport</motcle>
+      <motcle>spy-hero</motcle>
+      <motcle>airfield</motcle>
+      <motcle>train-station</motcle>
+      <motcle>camera-phone</motcle>
+      <motcle>shot-in-the-head</motcle>
+      <motcle>ukrainian</motcle>
+      <motcle>desert</motcle>
+      <motcle>taxi</motcle>
+      <motcle>opera</motcle>
+      <motcle>pistol</motcle>
+      <motcle>impersonation</motcle>
+      <motcle>corpse</motcle>
+      <motcle>foot-pursuit</motcle>
+      <motcle>embassy</motcle>
+      <motcle>underground-lake</motcle>
+      <motcle>espionage</motcle>
+      <motcle>police-officer-killed</motcle>
+      <motcle>based-on-short-story</motcle>
+      <motcle>suspicion</motcle>
+      <motcle>vengeance</motcle>
+      <motcle>dumpster</motcle>
+      <motcle>disposing-of-a-dead-body</motcle>
+      <motcle>mystery-organization</motcle>
+      <motcle>bank-account</motcle>
+      <motcle>explosion</motcle>
+      <motcle>bregenz-austria</motcle>
+      <motcle>theatre-audience</motcle>
+      <motcle>sinkhole</motcle>
+      <motcle>stabbed-in-the-neck</motcle>
+      <motcle>environmental</motcle>
+      <motcle>aston-martin</motcle>
+      <motcle>scaffold</motcle>
+      <motcle>airplane</motcle>
+      <motcle>russian</motcle>
+      <motcle>jumping-onto-a-bus</motcle>
+      <motcle>police-car</motcle>
+      <motcle>stabbed-in-the-leg</motcle>
+      <motcle>siena-italy</motcle>
+      <motcle>photograph</motcle>
+      <motcle>falling-down-stairs</motcle>
+      <motcle>luxury-hotel</motcle>
+      <motcle>person-in-a-car-trunk</motcle>
+      <motcle>sailboat</motcle>
+      <motcle>attaché-case</motcle>
+      <motcle>cobbled-road</motcle>
+      <motcle>shot-in-the-chest</motcle>
+      <motcle>police-officer</motcle>
+      <motcle>hanging-upside-down</motcle>
+      <motcle>car-falling-off-a-cliff</motcle>
+      <motcle>necklace</motcle>
+      <motcle>foot-chase</motcle>
+      <motcle>2000s</motcle>
+      <motcle>stabbed-in-the-foot</motcle>
+      <motcle>dangling-from-a-rope</motcle>
+      <motcle>bell-tower</motcle>
+      <motcle>natural-resources</motcle>
+      <motcle>deposed-dictator</motcle>
+      <motcle>gordon's-gin</motcle>
+      <motcle>falling-through-a-rooftop-window</motcle>
+      <motcle>art-gallery</motcle>
+      <motcle>interrogation</motcle>
+      <motcle>boat-accident</motcle>
+      <motcle>knife-fight</motcle>
+      <motcle>political-exile</motcle>
+      <motcle>freeze-frame</motcle>
+      <motcle>exploding-airplane</motcle>
+      <motcle>custom</motcle>
+      <motcle>gunfight</motcle>
+      <motcle>body-in-a-trunk</motcle>
+      <motcle>rescue</motcle>
+      <motcle>atacama-desert</motcle>
+      <motcle>tracking-device</motcle>
+      <motcle>off-screen-murder</motcle>
+      <motcle>exploding-car</motcle>
+      <motcle>running-across-a-roof</motcle>
+      <motcle>native-american</motcle>
+      <motcle>gadgetry</motcle>
+      <motcle>shot-in-the-shoulder</motcle>
+      <motcle>henchman</motcle>
+      <motcle>global-warming</motcle>
+      <motcle>cia</motcle>
+      <motcle>freight-train</motcle>
+      <motcle>wine</motcle>
+      <motcle>top-secret</motcle>
+      <motcle>official-james-bond-series</motcle>
+      <motcle>tunnel-chase-scene</motcle>
+      <motcle>attempted-rape</motcle>
+      <motcle>binoculars</motcle>
+      <motcle>russia</motcle>
+      <motcle>terrorist</motcle>
+      <motcle>gadget</motcle>
+      <motcle>sequel</motcle>
+      <motcle>austria</motcle>
+      <motcle>secret-service</motcle>
+      <motcle>exploding-building</motcle>
+      <motcle>motorcycle</motcle>
+      <motcle>death-of-friend</motcle>
+      <langage>Italian</langage>
+      <langage>Swiss German</langage>
+      <langage>French</langage>
+      <langage>Spanish</langage>
+      <langage>German</langage>
+      <langage>English</langage>
+      <role place="12">
+        <personnage>Foreign Secretary</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>British classical stage and TV actor Tim Pigott-Smith is a familiar face both here and in his native England. A drama major, he graduated from the University of Bristol in 1967 (where he frequently lectures) and made his professional debut two years later with the Bristol Old Vic. Predominantly a stage player in both regional and repertory, he made his Broadway debut in "Sherlock Holmes" as Dr. Watson in 1974. Over the years, he has appeared opposite England's theatre royalty including Judi Dench, Helen Mirren, Geraldine James, Margaret Tyzack, and Patrick Stewart. He formed his own theatre company in later years, Compass, and served as its artistic director from 1989-1992. In addition, he has directed several major productions including "Hamlet" and "A Royal Hunt of the Sun." He has taken several Shakespearean classics to TV, including his Hotspur in "Henry IV, Part I" and Angelo in "Measure for Measure," and delivered impressive performances in such prestigious mini-series productions as "Winston Churchill: The Wilderness Years," "Fame Is the Spur" and "The Jewel in the Crown." Lesser known for his body of film work, such movies as Aces High (1976), his film debut, Joseph Andrews (1977), Victory (1981), Clash of the Titans (1981), State of Emergency (1986), Remains of the Day (1993), and Martin Scorcese's Gangs of New York (2002) have yet given him that necessary breakout role. Tim is a frequent broadcaster who has recorded many audio books and has published the anthology, "Out of India." He has long been married to actress Pamela Miles and they have one son, Tom, who is a concert solo violinist. He recently scored critical acclaim in "The Iceman Cometh" (both London and Broadway), and as Ebenezer Scrooge in "A Christmas Carol." Most recently he graced the stage with Ms. Mirren in the 4 1/2 hour production of "Mourning Becomes Electra."</biographie>
+          <date_naissance>1946-05-13 00:00:00</date_naissance>
+          <nom>Pigott-Smith, Tim</nom>
+        </acteur>
+      </role>
+      <role place="33">
+        <personnage>MI6 Agent</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1971-10-11 00:00:00</date_naissance>
+          <nom>Wakeling, Mark</nom>
+        </acteur>
+      </role>
+      <role place="27">
+        <personnage>Bartender on Virgin Flight</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Seal, Jake</nom>
+          <nom_naissance>Seal, Jacob</nom_naissance>
+        </acteur>
+      </role>
+      <role place="48">
+        <personnage>Speedboat Captain</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Braithwaite, Robert</nom>
+        </acteur>
+      </role>
+      <role place="42">
+        <personnage>Motorcycle Cop</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Pérez, Mike</nom>
+        </acteur>
+      </role>
+      <role place="55">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1961-10-18 00:00:00</date_naissance>
+          <nom>Krejcí, Kamil</nom>
+        </acteur>
+      </role>
+      <role place="50">
+        <personnage>Marchetti Pilot</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Gil, Antonio</nom>
+          <nom_naissance>Martínez, Antonio Gil</nom_naissance>
+        </acteur>
+      </role>
+      <role place="52">
+        <personnage>La Paz Bartender</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Newball, Jaime</nom>
+        </acteur>
+      </role>
+      <role place="62">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Gyalzur, Tsedor</nom>
+        </acteur>
+      </role>
+      <role place="64">
+        <personnage>Floria Tosca</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Babajanyan, Karine</nom>
+        </acteur>
+      </role>
+      <role place="3">
+        <personnage>Dominic Greene</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1965-10-25 00:00:00</date_naissance>
+          <nom>Amalric, Mathieu</nom>
+        </acteur>
+      </role>
+      <role place="29">
+        <personnage>Andean Grand Hotel Receptionist</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Calderón, Emilio Janhunen</nom>
+        </acteur>
+      </role>
+      <role place="2">
+        <personnage>Camille</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Olga Kurylenko, a Ukrainian-born actress and model, went from sharing a cramped flat with her aunt, uncle, grandparents and cousin to starring as a Bond girl opposite 'Daniel Craig (I)' (qv). She was born Olga Konstantinovna Kurylenko on November 14, 1979, in Berdyansk, Ukraine, Soviet Union. Her mother, Marina Alyabysheva, divorced her father, Konstantin Kurylenko, soon after her birth. After the divorce her mother struggled to survive as an art teacher. Young Olga was brought up by her mother and her grandmother, Raisa. During her youth Olga had the humbling experience of living in poverty; she had no choice but to wear rags and had to darn the holes on her sweater. During her years in Ukraine she studied art and languages and spent seven years studying piano at a local school of music in Berdyansk. She also went to a ballet studio until 13. At age 13 Olga and her mother made a trip to Moscow. There she was spotted by an agent, who approached her at a subway station and offered her a job as a model. Initially Olga's mother was suspicious, but she checked the agent's credentials and eventually allowed Olga to accept training as a model in Moscow, which turned out to be a good career choice. By age 16 she was ready for the next step. She moved to Paris, learned French in six months and was signed by the Madison agency. At age 18 she appeared on the cover of Glamour, and in short order graced the covers of Elle, Madame Figaro, Marie Claire, and Vogue. She also became the face of Lejaby lingerie, Bebe clothing, Clarins and Helena Rubinstein cosmetic companies. In 1999 Olga married French photographer 'Cedric Van Mol' (qv), but divorced him 3-1/2 years later. One day Olga presented herself to an acting agency. Eventually she swapped the catwalk for the movie screen, and her acting career took off. In 2005 she made her film debut as "Iris", a sensual beauty, in _L'annulaire (2005)_ (qv), by director 'Diane Bertrand' (qv). Olga's cinematic roles have been notably steamy, and her natural beauty and explicit nudity attracted the attention of the male audiences. She appeared opposite 'Elijah Wood' (qv) in _Paris, je t'aime (2006)_ (qv) and as "Sofia" in _Le serpent (2006)_ (qv), then co-starred as Russian beauty "Nika Boronina" opposite 'Timothy Olyphant (I)' (qv) in _Hitman (2007/I)_ (qv). She also appeared as "Mina Harud" in the indie surveillance-thriller _"Tyranny" (2008)_ (qv). On Christmas Eve 2007, Olga was offered to play what will become her biggest hit: co-starring as "Camille", the Bond girl, opposite 'Daniel Craig (I)' (qv) in _Quantum of Solace (2008)_ (qv), a sequel to _Casino Royale (2006)_ (qv). With the international success as Bond Girl, Olga also made appearances on various TV productions in Russia and Ukraine. In 2012, Olga Kurylenko was cast as Julia, supporting role in the Sci-Fi adventure _Oblivion (2013/I)_ (qv) opposite 'Tom Cruse' (qv) and 'Morgan Freeman (I)' (qv).</biographie>
+          <date_naissance>1979-11-14 00:00:00</date_naissance>
+          <nom>Kurylenko, Olga</nom>
+          <nom_naissance>Kurylenko, Olga Konstantinovna</nom_naissance>
+        </acteur>
+      </role>
+      <role place="6">
+        <personnage>Strawberry Fields</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Gemma was born and raised in Gravesend, Kent, UK. Her parents divorced when she was age 5, and so Gemma lived with her younger sister and her mother. Her father is a welder and her mother a cleaner. They encouraged their children to explore their creative abilities. Gemma's sister, Hannah, liked to sing, whereas Gemma chose acting. During her teenage years, she was part of the Masquerade and Miskin theater companies, appearing in productions of The Massacre of Civitella and Guiding Star. In 2004, she won an award for Best Supporting Actress, which helped her to win a grant to study at the Royal Academy of Dramatic Art (RADA). Whilst studying at RADA, she landed her first professional role in _Capturing Mary (2007) (TV)_ (qv), directed by 'Stephen Poliakoff (I)' (qv) and starring 'Maggie Smith (I)' (qv). Gemma graduated from RADA in 2007 and won her first film role in _St. Trinian's (2007)_ (qv). Her breakthrough role came in 2008, when she appeared in the James Bond film _Quantum of Solace (2008)_ (qv). In 2009, she was the winner of Empire's Best Newcomer Award.</biographie>
+          <date_naissance>1986-02-02 00:00:00</date_naissance>
+          <nom>Arterton, Gemma</nom>
+          <nom_naissance>Arterton, Gemma Christina</nom_naissance>
+        </acteur>
+      </role>
+      <role place="59">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Prusa, Alexandra</nom>
+        </acteur>
+      </role>
+      <role place="66">
+        <personnage>Mario Cavaradossi</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Jovanovich, Brandon</nom>
+        </acteur>
+      </role>
+      <role place="25">
+        <personnage>Hôtel Dessalines Clerk</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Coley, Kari Patrice</nom>
+        </acteur>
+      </role>
+      <role place="35">
+        <personnage>Haitian Gang Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Duckins, Jacques</nom>
+        </acteur>
+      </role>
+      <role place="44">
+        <personnage>CIA Flight Attendant</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1984-10-04 00:00:00</date_naissance>
+          <nom>McDowall, Rachel</nom>
+          <nom_naissance>McDowall, Rachel Anne</nom_naissance>
+        </acteur>
+      </role>
+      <role place="10">
+        <personnage>Elvis</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Anatole Taubman was born in Zurich, Switzerland and is of Russian-Polish-Slovakian-Austrian-and-former-East-Prussian blood. In 1991 he made his baccalauréat at the renowned Gymnasium of the Benedictine boarding school of the monastery Einsiedeln and in 1994 he graduated from the reputable drama-school 'Circle in the Square' in NYC. He's fluent in five languages (English, French, Swiss-German, German and Italian) and is also truly cosmopolitan in his work. Taubman has starred and co-starred in over 50 feature films and TV productions. Since 1998, he has been busy working and with international success in the UK, France, Germany, Switzerland and for the USA throughout Europe and beyond. Among other credits Anatole Taubman is best known for his impressive English-language TV work in Band of Brothers (HBO), Servants (BBC), POW (ITV), Spooks VI (BBC), Waking The Dead VII - Pièta (BBC) or The Tudors II (Showtime) and established himself as a fine character actor in feature films like Mein Name is Bach (CH/D), Luther (D), Marmorera (CH), Fay Grim (USA), Snipers Valley (D), Secret Défense (F), Taken / 96 Hours (F / USA) and in 2009 Pope Joan (D), Same Same But Different (D) or in Chanel &amp; Stravinsky (F). Anatole Taubman is a member of the German Film Academy and of the European Film Academy. Anatole Taubman is Spokesperson for UNICEF Switzerland.</biographie>
+          <date_naissance>1970-12-23 00:00:00</date_naissance>
+          <nom>Taubman, Anatole</nom>
+        </acteur>
+      </role>
+      <role place="46">
+        <personnage>Greene's Driver</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>von Malaisé, Carl</nom>
+        </acteur>
+      </role>
+      <role place="40">
+        <personnage>Investor at Party</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>de Córdoba, Diego Fernández</nom>
+        </acteur>
+      </role>
+      <role place="58">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1973-01-01 00:00:00</date_naissance>
+          <nom>Tamer, Uygar</nom>
+        </acteur>
+      </role>
+      <role place="65">
+        <personnage>Baron Scarpia</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Soules, Sebastien</nom>
+        </acteur>
+      </role>
+      <role place="32">
+        <personnage>Carabinieri on Radio</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Sossas, Alessio</nom>
+        </acteur>
+      </role>
+      <role place="8">
+        <personnage>Gregg Beam</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1974-04-10 00:00:00</date_naissance>
+          <nom>Harbour, David</nom>
+        </acteur>
+      </role>
+      <role place="67">
+        <personnage>Sciarrone</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Busen, Martin</nom>
+        </acteur>
+      </role>
+      <role place="16">
+        <personnage>Gemma</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1966-07-19 00:00:00</date_naissance>
+          <nom>Lante della Rovere, Lucrezia</nom>
+          <nom_naissance>Rovere, Donna Lucrezia Lante Montefeltro della</nom_naissance>
+        </acteur>
+      </role>
+      <role place="38">
+        <personnage>Man with Gift Bag</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Heller, Christian</nom>
+        </acteur>
+      </role>
+      <role place="43">
+        <personnage>Motorcycle Cop</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Avendaño, Juan Carlos</nom>
+        </acteur>
+      </role>
+      <role place="37">
+        <personnage>Gift Bag Girl</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Lanz, Karin</nom>
+          <nom_naissance>Lanz, Karin Sibylle</nom_naissance>
+        </acteur>
+      </role>
+      <role place="49">
+        <personnage>DC-3 Caretaker</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Varas Ramos, Santos</nom>
+        </acteur>
+      </role>
+      <role place="14">
+        <personnage>Colonel of Police</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1963-03-11 00:00:00</date_naissance>
+          <nom>Guillén Cuervo, Fernando</nom>
+          <nom_naissance>Cuervo, Fernando María Guillén</nom_naissance>
+        </acteur>
+      </role>
+      <role place="20">
+        <personnage>Corrine</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Stana Katic was born in the industrial town of Hamilton, Ontario. She spent much of her youth in the outskirts of Chicago. Her parents are ethnic Serbs and are from region called Dalmatia in Croatia. She is the oldest of six siblings. Stana studied international law, global economics and theater/film both in Toronto and Chicago before moving to Los Angeles to begin a career in film. She is an avid lover of science, travel, music, and art. In 2010, Stana started a global initiative called The Alternative Travel Project. The project encourages everyone, everywhere - but especially in car-centric Los Angeles - to go car-free for just one day. The campaign has been extremely successful, causing people from around the globe to join the initiative. In 2008, she established her own production company, Sine Timore Productions, which in Latin means "without fear." Sine Timore began acquiring properties in 2011 for upcoming feature film production. Stana Katic currently resides in Los Angeles, speaks five languages, and holds dual citizenship in Canada and the United States.</biographie>
+          <date_naissance>1978-04-26 00:00:00</date_naissance>
+          <nom>Katic, Stana</nom>
+        </acteur>
+      </role>
+      <role place="19">
+        <personnage>Yusef</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1979-08-07 00:00:00</date_naissance>
+          <nom>Kassianides, Simon</nom>
+        </acteur>
+      </role>
+      <role place="18">
+        <personnage>Guy Haines</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Ritter, Paul</nom>
+        </acteur>
+      </role>
+      <role place="63">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Stüssi, Daniel</nom>
+        </acteur>
+      </role>
+      <role place="5">
+        <personnage>Rene Mathis</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Giancarlo Giannini is an Oscar-nominated Italian actor, director and multilingual dubber who made an international reputation for his leading roles in Italian films as well as for his mastery of a variety of languages and dialects. He was born August 1, 1942, in La Spezia, Italy. For ten years young Giannini lived and studied in Naples, earning his degree in electronics. At the age of 18 he enrolled in the Academy of Dramatic Art D'Amico in Rome, making his stage acting debut there. His credits included performances in contemporary Italian plays, as well, as in Italian productions of 'William Shakespeare (I)' (qv)'s plays "Romeo and Juliet" and "A Midsummer's Night Dream". In 1965 he made his debut on television starring as David Copperfield in the TV mini-series made by RAI, the Italian national TV company. He made his big-screen debut in _Libido (1965)_ (qv), a Freudian psychological thriller. Since 1966 he has been in a successful collaboration with the legendary Italian director 'Lina Wertmüller' (qv), who made several award-winning films with Giannini as a male lead. He appears as peasant Tonino who prepares to assassinate dictator 'Benito Mussolini' (qv) in _Film d'amore e d'anarchia, ovvero 'stamattina alle 10 in via dei Fiori nella nota casa di tolleranza...' (1973)_ (qv), as a sailor in the irony-laden comedy _Travolti da un insolito destino nell'azzurro mare d'agosto (1974)_ (qv) and as a survivor of a concentration camp in the Oscar-nominated _Pasqualino Settebellezze (1975)_ (qv). He also starred as a Jewish musician arrested by the Nazis in 'Rainer Werner Fassbinder' (qv)'s masterpiece _Lili Marleen (1981)_ (qv). Giannini also made a reputation for dubbing international stars in films released on the Italian market, such as 'Jack Nicholson (I)' (qv), 'Al Pacino' (qv), 'Michael Douglas (I)' (qv), 'Dustin Hoffman' (qv), 'Gérard Depardieu' (qv) and 'Ian McKellen' (qv), among others. He received a compliment from 'Stanley Kubrick' for his dubbing of Nicholson in _The Shining (1980)_ (qv). Giannini's fluency in English and his mastery of dialects has brought him a number of supporting roles in Hollywood productions, such as _A Walk in the Clouds (1995)_ (qv), _Hannibal (2001)_ (qv), _Darkness (2002)_ (qv) and _Man on Fire (2004)_ (qv), among many others. He appears as Rene Mathis in the 21st James Bond film _Casino Royale (2006)_ (qv), and reprises the role in the sequel, _Quantum of Solace (2008)_ (qv).</biographie>
+          <date_naissance>1942-08-01 00:00:00</date_naissance>
+          <nom>Giannini, Giancarlo</nom>
+        </acteur>
+      </role>
+      <role place="15">
+        <personnage>Lt. Orso</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1959-12-24 00:00:00</date_naissance>
+          <nom>Ochoa, Jesús</nom>
+          <nom_naissance>Domínguez, Jesús Ochoa</nom_naissance>
+        </acteur>
+      </role>
+      <role place="39">
+        <personnage>Investor at Party</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Concha, Dante</nom>
+        </acteur>
+      </role>
+      <role place="57">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Margiani, Erosi</nom>
+        </acteur>
+      </role>
+      <role place="23">
+        <personnage>Forensics Tech</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>O'Hea, Brendan</nom>
+        </acteur>
+      </role>
+      <role place="60">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Gandura, Muhamed</nom>
+        </acteur>
+      </role>
+      <role place="47">
+        <personnage>Alfa 2 Driver</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Degruttola, Raffaello</nom>
+        </acteur>
+      </role>
+      <role place="1">
+        <personnage>James Bond</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Daniel Craig, one of British theatre's most famous faces who was waiting tables as a struggling teenage actor with the NYT, went on to star as "James Bond" in _Casino Royale (2006)_ (qv), _Quantum of Solace (2008)_ (qv) and _Skyfall (2012)_ (qv). He was born Daniel Wroughton Craig on March 2, 1968, at 41 Liverpool Road, Chester, Cheshire, England. His father, Tim Craig, was a merchant seaman turned steel erector, then became landlord of "Ring O' Bells" pub in Frodsham, Cheshire. His mother, Carol Olivia Craig, was an art teacher. His parents split up in 1972, and young Daniel Craig was raised with his older sister, Lea, in Liverpool, then in Hoylake, Wirral, in the home of his mother. His interest in acting was encouraged by visits to the Liverpool Everyman Theatre arranged by his mother. From the age of 6, Craig started acting in school plays, making his debut in the Frodsham Primary School production of "Oliver!", and his mother was the driving force behind his artistic aspirations. The first Bond movie he ever saw at the cinema was 'Roger Moore (I)' (qv)'s _Live and Let Die (1973)_ (qv); young Daniel Craig saw it with his father, so it took a special place in his heart. He was also a good athlete and was a rugby player at Hoylake Rugby Club. At the age of 14, Craig played roles in "Oliver", "Romeo and Juliet" and "Cinderella" at Hilbre High School in West Kirby, Wirral, UK. He left Hilbre High at 16 to audition at the National Youth Theatre's (NYT) troupe on their tour in Manchester in 1984. He was accepted and moved down to London. There, his mother and father watched his stage debut as "Agamemnon" in Shakespeare's "Troilus and Cressida". As a struggling actor with the NYT, he was toiling in restaurant kitchens and as a waiter. Craig performed with NYT on tours to Valencia, Spain, and to Moscow, Russia, under the leadership of director 'Edward Wilson (I)' (qv). He failed at repeated auditions at the Guildhall, but eventually his persistence paid off, and in 1988, he entered the Guildhall School of Music and Drama at the Barbican. There, he studied alongside 'Ewan McGregor' (qv) and 'Alistair McGowan' (qv), then later 'Damian Lewis (I)' (qv) and 'Joseph Fiennes' (qv), among others. He graduated in 1991, after a three-year course under the tutelage of 'Colin McCormack (I)' (qv), the actor from the Royal Shakespeare Company. From 1992-1994, he was married to Scottish actress Fiona Loudon, their daughter, named 'Ella Craig' (qv), was born in 1992. Daniel Craig made his film debut in _The Power of One (1992)_ (qv). His film career continued on television, notably the BBC2 serial _"Our Friends in the North" (1996)_ (qv). He shot to international fame after playing supporting roles in _Lara Croft: Tomb Raider (2001)_ (qv) and _Road to Perdition (2002)_ (qv). He was nominated for his performances in the leading role in _Layer Cake (2004)_ (qv), and received other awards and nominations. Craig was named as the sixth actor to portray "James Bond", in October of 2005, weeks after he finished his work in _Munich (2005)_ (qv), where he co-starred with 'Eric Bana' (qv) under the directorship of 'Steven Spielberg' (qv). Craig's reserved demeanor and his avoidance of the showbiz-party-red-carpet milieu makes him a cool "007". He is the first blonde actor to play Bond, and also the first to be born after the start of the film series, and also the first to be born after the death of author 'Ian Fleming (I)' (qv) in 1964. Four of the past Bond actors: 'Sean Connery' (qv), 'Roger Moore (I)' (qv), 'Timothy Dalton' (qv) and 'Pierce Brosnan' (qv) have indicated that Craig is a good choice as "Bond".</biographie>
+          <date_naissance>1968-03-02 00:00:00</date_naissance>
+          <nom>Craig, Daniel</nom>
+          <nom_naissance>Craig, Daniel Wroughton</nom_naissance>
+        </acteur>
+      </role>
+      <role place="24">
+        <personnage>Treasury Agent</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1975-01-01 00:00:00</date_naissance>
+          <nom>Wright, Rufus</nom>
+          <nom_naissance>Gerrard-Wright, Rufus</nom_naissance>
+        </acteur>
+      </role>
+      <role place="28">
+        <personnage>Bolivian Taxi Driver</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Peñarandam Felix</nom>
+        </acteur>
+      </role>
+      <role place="36">
+        <personnage>Dockside Valet</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Hansell, Anthony</nom>
+        </acteur>
+      </role>
+      <role place="61">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>El-Salhy, Shamel</nom>
+        </acteur>
+      </role>
+      <role place="54">
+        <personnage>Additional Voices</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Alfonso Cuarón Orozco was born on November 28th in Mexico City, Mexico. From an early age, he yearned to be either a film director or an astronaut. However, he did not want to enter the army, so he settled for directing. He didn't receive his first camera until his twelfth birthday, and then immediately started to film everything he saw, showing it afterwards to everyone. In his teen years, films were his hobby. Sometimes he said to his mother he would go to a friend's home, when in fact he would go to the cinema. His ambition was to know every theatre in the city. Near his house there were two studios, Studios Churubusco and Studios 212. After finishing school, Cuarón decided to study cinema right away. He tried to study at C.C.C. (Centro de Capacitación Cinematográfica) but wasn't accepted because at that time they weren't accepting students under twenty-four years old. His mother didn't support that idea of cinema, so he studied philosophy in the morning and in the afternoon he went to the C.U.E.C. (Centro Universitario de Estudios Cinematográficos). During that time he met many people who would later become his collaborators and friends. One of them was 'Luis Estrada (I)' (qv). Cuaron also became good friends with 'Carlos Marcovich' (qv) and 'Emmanuel Lubezki' (qv). Luis Estrada directed a short called "Vengance is Mine", on which Alfonso and Emmanuel collaborated. The film was in English, a fact which bothered many teachers of the C.U.E.C. such as 'Marcela Fernández Violante (I)' (qv). The disagreement caused such arguments that in 1985, Alfonso was expelled from the university. During his time studying at C.U.E.C. he met 'Mariana Elizondo' (qv), and with her he had his first son, 'Jonás Cuarón' (qv). After Alfonso was expelled, he thought he could never be a director and so went on to work in a Museum so he could sustain his family. One day, 'José Luis García Agraz' (qv) and Fernando CáMara went to the museum and made an offer to Cuarón. They asked him to work as cable person in "_La víspera (1982)_ (qv)", a job which was to prove to be his salvation. After that he was assistant director in Garcia Agraz's "_Nocaut (1984)_ (qv)", as well as numerous other films. He was also second unit director in "_Gaby: A True Story (1987)_ (qv)", and co-wrote and directed some episodes in the series "_"A Hora Marcada" (1967)_ (qv)". One New Year's Eve, he decided he would not continue to be an assistant director, and with his brother Carlos started writing what would be his first feature film: "_Sólo con tu pareja (1991)_ (qv)" (Love in the time of Hysteria). After the screenplay was written, the problem became how to get financial backing for the movie. I.M.C.I.N.E. (Instituto Mexicano de Cinematografia), which supports movies financially, had already decided which projects it would support that year, much to Alfonso's initial chagrin. However, the director of one of those already-chosen projects was unable to direct it, so his project was canceled, and "Sólo con tu pareja" took its place. Despite this being chosen, there was a lot of tension between Alfonso and the I.M.C.I.N.E. executives. Nevertheless, after the movie was finished, it was a huge success. In Toronto festival the films won many awards, and Alfonso started to be noticed by Hollywood producers. 'Sydney Pollack' (qv) was the first one to invite him to shoot in Hollywood. He proposed a feature film to be directed by Alfonso, but the project didn't work and was canceled. Alfonso moved to Los Angeles without anything concrete, and stayed with some friends, as he had no money. Soon after that, Pollack called him again to direct an episode called "_"Fallen Angels" (1993) {Murder, Obliquely (#1.5)}_ (qv)" of the series "_"Fallen Angels" (1993)_ (qv)", that was the first job he had in U.S., and also the first time he worked with 'Alan Rickman' (qv). After a while, and no real directing jobs, Alfonso wanted to direct something as he needed money. He finally signed a contract with Warner Brothers to direct the film _Addicted to Love (1995) (V)_ (qv). However, one night, he read the screenplay for another film, _A Little Princess (1995)_ (qv) and fell in love with it. He talked to Warner Brothers and after some meetings he gave up directing "Addicted to Love" in order to do "A Little Princess". Even thought it wasn't a great box office success, the film received two nominations for the Oscars, and won many other awards. After "A Little Princess" Alfonso developed a project with 'Richard Gere' (qv) starring. The project was canceled, but Cuarón got an offer from Twentieth Century Fox to direct the modern adaptation of the Charles Dickens' classic _Great Expectations (1998)_ (qv). He initially didn't want to direct it but the studio insisted, and in the end he accepted it. The experience was very painful and difficult for him mainly because there was never a definitive screenplay. He then reunited with producer 'Jorge Vergara (I)' (qv) and founded both Anhelo Productions and Moonson Productions. Anhelo's first picture was also Alfonso's next film, the erotic road movie "_Y tu mamá también (2001)_ (qv)", which was a huge success. During the promotion of the film in Venice, Alfonso met the cinema critic 'Annalisa Bugliani' (qv). They started dating and married that same year. "_Children of Men (2006)_ (qv)" was to be Alfonso's next film, a futuristic, dystopian story. During the preproduction of the film, Warner Brothers invited Alfonso to direct the third Harry Potter film, "_Harry Potter and the Prisoner of Azkaban (2004)_ (qv)", an offer which he accepted after some consideration. The film would prove to be the greatest box office success of his career. In 2003, he had a daughter named 'Tess Bu Cuarón' (qv), and in February 2005 another son, called Olmo Teodoro Cuarón. Alfonso Cuarón signed a three-year first-look deal with Warner Brothers, which allowed his films to be distributed world-wide. As a result of that deal, he developed two new projects, _History of Love, The (2007)_ and _Memory of Running, The (2007)_. He also developed another Mexican film "_México '68 (2007)_", about the violent students' revolt that happened in Mexico in 1968. He directed one five-minute segment of the anthology film _Paris, je t'aime (2006)_ (qv) with 'Nick Nolte' (qv) and 'Ludivine Sagnier' (qv). His next project, the futuristic film _Children of Men (2006)_ (qv) with 'Clive Owen (I)' (qv), 'Julianne Moore' (qv) and 'Michael Caine (I)' (qv) premiered at the Venice Film Festival in 2006 having been nominated for three Academy Awards. After his youngest son was diagnosed with autism and the divorce from Annalisa Bugliani he took a break from directing and settled in London where he plans to work on his next projects. In 2013, Alfonso directed the space thriller _Gravity (2013)_ (qv), which would go win 7 academy awards.</biographie>
+          <date_naissance>1961-11-28 00:00:00</date_naissance>
+          <nom>Cuarón, Alfonso</nom>
+          <nom_naissance>Orozco, Alfonso Cuarón</nom_naissance>
+        </acteur>
+      </role>
+      <role place="4">
+        <personnage>M</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Attended Mount School in York, and studied at the Central School of Speech and Drama. She has performed with Royal Shakespeare Company, the National Theatre, and at Old Vic Theatre. She is a ten-time BAFTA winner including Best Actress in a Comedy Series for _"A Fine Romance" (1981)_ (qv) in which she appeared with her husband, 'Michael Williams (I)' (qv), and Best Supporting Actress in _A Handful of Dust (1988)_ (qv) and _A Room with a View (1985)_ (qv) . She received an ACE award for her performance in the television series _Mr. and Mrs. Edgehill (1985) (TV)_ (qv). She was made an Officer of the Order of the British Empire in 1970, and was created Dame of Order of the British Empire in 1988.</biographie>
+          <date_naissance>1934-12-09 00:00:00</date_naissance>
+          <nom>Dench, Judi</nom>
+          <nom_naissance>Dench, Judith Olivia</nom_naissance>
+        </acteur>
+      </role>
+      <role place="56">
+        <personnage>Quantum Member</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Nanez, Gustavo</nom>
+        </acteur>
+      </role>
+      <role place="41">
+        <personnage>Investor at Party</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Cedeño, Edwin</nom>
+        </acteur>
+      </role>
+      <role place="68">
+        <personnage>Spoletta</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Krawetz, Alexandre</nom>
+        </acteur>
+      </role>
+      <role place="26">
+        <personnage>Ocean Sky Receptionist</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1971-01-01 00:00:00</date_naissance>
+          <nom>Hadland, Sarah</nom>
+        </acteur>
+      </role>
+      <role place="69">
+        <personnage>Spoletta</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Albright, Dale</nom>
+        </acteur>
+      </role>
+      <role place="21">
+        <personnage>Mr. Slate</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1976-03-05 00:00:00</date_naissance>
+          <nom>Jackson, Neil</nom>
+        </acteur>
+      </role>
+      <role place="34">
+        <personnage>Woman with Bucket</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Albornoz, Susana</nom>
+        </acteur>
+      </role>
+      <role place="9">
+        <personnage>Mr. White</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born 1948 in central Copenhagen. Lived there ever since. Did 25 years of theatre, - like Alceste in the Misanthropist, Richard in Richard lll (solo), Faust in Faust, Astrov in Vanja, a lot of worried men,- stopped doing it in 1998. Since then only worried men on film. Worked on more than 100 films by Per Fly, Marc Forster, John Madden, Lone Scherfig, Sydney Pollack, Jan Troell, Martin Campbell, Anette K Olesen, Pernille Fischer Christensen, and others. Since 2000 lives with Tove Bornhoeft, wonderful Danish theatre manager/director/actress. Two grown up daughters. No animals. Dogs, pigs, chickens, cats, birds, horses, fish, rabbits - all gone now.</biographie>
+          <date_naissance>1948-05-16 00:00:00</date_naissance>
+          <nom>Christensen, Jesper</nom>
+        </acteur>
+      </role>
+      <role place="31">
+        <personnage>Mr. White's Girlfriend</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Arciniega, Elizabeth</nom>
+        </acteur>
+      </role>
+      <role place="71">
+        <personnage>Hirtenknabe</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Pountney, Emilia</nom>
+        </acteur>
+      </role>
+      <role place="45">
+        <personnage>Hotel Bolívar Receptionist</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Farrugia, Rodrigo</nom>
+        </acteur>
+      </role>
+      <role place="51">
+        <personnage>Bureaucrat at Party</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Gotti, Luis Antonio</nom>
+        </acteur>
+      </role>
+      <role place="17">
+        <personnage>Mitchell</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Foster, Glenn</nom>
+        </acteur>
+      </role>
+      <role place="9223372036854775807">
+        <personnage>MI6 Agent</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1980-12-31 00:00:00</date_naissance>
+          <nom>Decio, David</nom>
+        </acteur>
+      </role>
+      <role place="7">
+        <personnage>Felix Leiter</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Quite possibly the most underrated and underexposed actor of his caliber and generation, Jeffrey Wright's undeniable talent and ability to successfully bring to life any role he undertakes is on a par with the most praised and revered A-list actors in the business. Born and raised in Washington DC, Wright graduated from the prestigious Amherst college in 1987. Although he studied Political Science while at Amherst, Wright left the school with something that would prove to be more valuable: a love for acting. Shortly after graduating he won an acting scholarship to NYU, but dropped out after only two months to pursue acting full time. With roles in 1990's Presumed Innocent, and the Broadway production of Angels in America, (in which he won a well deserved Tony award), within a relatively short time Wright was able to show off his exceptional talent and ability on both stage and screen alike. His first major on-screen performance came in 1996 in the Julian Schnabel directed film Basquiat. Wright's harrowing performance as the late painter Jean Michele Basquiat was critically acclaimed for its haunting accuracy and raw emotion. With a Tony, a Golden Globe, and an AFI award under his belt, the intensity of Wright's skill has been proven over and over again. Hopefully the near future will bring an influx of more varied lead roles for black actors so that Wright can continue to astonish his colleagues, critics and fans alike with the intensity of his skill.</biographie>
+          <date_naissance>1965-12-07 00:00:00</date_naissance>
+          <nom>Wright, Jeffrey</nom>
+        </acteur>
+      </role>
+      <role place="53">
+        <personnage>Additional Voices</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>'Guillermo del Toro' (qv) was born October 9, 1964 in Guadalajara Jalisco, Mexico. Raised by his Catholic grandmother, del Toro developed an interest in filmmaking in his early teens. Later, he learned about makeup and effects from the legendary 'Dick Smith (II)' (qv) (_The Exorcist (1973)_ (qv)) and worked on making his own short films. At the age of 21, del Toro executive produced his first feature, Dona Herlinda and Her Son (1986). Del Toro spent almost 10 years as a makeup supervisor, and formed his own company, Necropia in the early 1980s. He also produced and directed Mexican television programs at this time, and taught film. del Toro got his first big break when _Cronos (1993)_ (qv) won nine academy awards in Mexico, then went on to win the International Critics Week prize at Cannes. Following this success, del Toro made his first Hollywood film, _Mimic (1997)_ (qv), starring 'Mira Sorvino' (qv). del Toro had some unfortunate experiences working with a demanding Hollywood studio on _Mimic (1997)_ (qv), and returned to Mexico to form his own production company, The Tequila Gang. Next for del Toro, was _El espinazo del diablo (2001)_ (qv), a Spanish Civil War ghost story. The film was hailed by critics and audiences alike, and del Toro decided to give Hollywood another try. In 2002, he directed the 'Wesley Snipes' (qv) vampire sequel, _Blade II (2002)_ (qv). On a roll, Del Toro followed up _Blade II (2002)_ (qv) with another successful comic-book inspired film, _Hellboy (2004)_ (qv), starring one of Del Toro's favorite actors, 'Ron Perlman' (qv). Married with children, del Toro lives in Los Angeles.</biographie>
+          <date_naissance>1964-10-09 00:00:00</date_naissance>
+          <nom>del Toro, Guillermo</nom>
+        </acteur>
+      </role>
+      <role place="11">
+        <personnage>Bill Tanner</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1978-02-17 00:00:00</date_naissance>
+          <nom>Kinnear, Rory</nom>
+        </acteur>
+      </role>
+      <role place="13">
+        <personnage>General Medrano</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1962-01-01 00:00:00</date_naissance>
+          <nom>Cosio, Joaquín</nom>
+        </acteur>
+      </role>
+      <role place="22">
+        <personnage>Perla de las Dunas Receptionist</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1986-06-04 00:00:00</date_naissance>
+          <nom>Chaplin, Oona</nom>
+          <nom_naissance>Chaplin, Oona Castilla</nom_naissance>
+        </acteur>
+      </role>
+      <role place="70">
+        <personnage>Hirtenknabe</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Velletaz, Katia</nom>
+        </acteur>
+      </role>
+    </film>
+  </projection>
+  <projection>
+    <date>2016-04-29 12:31:31</date>
+    <salleNum>Flon 3</salleNum>
+    <film>
+      <titre>Inglourious Basterds</titre>
+      <synopsis>It's WWII, the battleground, Nazi-occupied France. The Nazis are doing whatever they need to to flush out and exterminate Jews, the most proficient and prolific of the Jew hunters being the sadistic SS Colonel Hans Landa. As such, the American military forms a unit, led by Lieutenant Aldo Raine and comprised of eight Jews, to kill as many Nazis as possible. Raine requests each of his men to bring him the scalp of at least 100 Nazis apiece. He has his own method of ensuring that those Nazis he does allow or need to let go free are scarred for life. In Paris in 1944, Joseph Goebbels, the Nazi's chief propaganda master and filmmaker, plans to debut his latest film, "Nation's Pride". The film, based on the victorious military exploits of Private Fredrick Zoller, stars Zoller as himself. Because of his attraction to its pretty proprietress Emmanuelle Mimieux, Zoller convinces Goebbels and the Nazi brass to hold the premiere at Mimieux's cinema. Landa is to act as chief of security for the event. When the Americans get wind of the screening and the fact that most of the Nazi highers-up will be in attendance, Raine's team is tasked with blowing up the cinema during the screening. They are assisted by renowned German actress, Bridget von Hammersmark, who has been working as a spy for the British. They believe luck is on their side when they learn that Hitler himself is scheduled to attend. Beyond being found out, Raine's team face two as of yet unknown issues. The first is Mimieux, who is really Shoshanna Dreyfus, a Jew who saw her family brutally murdered by Landa four years earlier, and who may have her own plans for Landa and the Nazis. The second is Landa, who beyond his up front mission, has another more personal mission for his life post-war unknown to anyone but himself.</synopsis>
+      <duree>153</duree>
+      <genre>War</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <motcle>secret-mission</motcle>
+      <motcle>general</motcle>
+      <motcle>waitress</motcle>
+      <motcle>peasant</motcle>
+      <motcle>explosion</motcle>
+      <motcle>massacre</motcle>
+      <motcle>strangulation</motcle>
+      <motcle>sadism</motcle>
+      <motcle>nazis</motcle>
+      <motcle>death</motcle>
+      <motcle>secret-military-operation</motcle>
+      <motcle>stabbing</motcle>
+      <motcle>title-appears-in-text</motcle>
+      <motcle>psychopath</motcle>
+      <motcle>revenge</motcle>
+      <motcle>unsubtitled-foreign-language</motcle>
+      <motcle>nazi</motcle>
+      <motcle>truck</motcle>
+      <motcle>flashback</motcle>
+      <motcle>spy</motcle>
+      <motcle>flash-forward</motcle>
+      <motcle>knife-fight</motcle>
+      <motcle>film-projectionist</motcle>
+      <motcle>machine-gun</motcle>
+      <motcle>baseball-bat</motcle>
+      <motcle>missspelled-title</motcle>
+      <motcle>thrown-through-a-window</motcle>
+      <motcle>restaurant</motcle>
+      <motcle>tension</motcle>
+      <motcle>uncle-niece-relationship</motcle>
+      <motcle>german-army</motcle>
+      <motcle>basement</motcle>
+      <motcle>bloodbath</motcle>
+      <motcle>bar-shootout</motcle>
+      <motcle>intentionally-misspelled-title</motcle>
+      <motcle>bullet-time</motcle>
+      <motcle>violence</motcle>
+      <motcle>film-projector</motcle>
+      <motcle>slow-motion-shootout</motcle>
+      <motcle>rat</motcle>
+      <motcle>held-at-gunpoint</motcle>
+      <motcle>nickname</motcle>
+      <motcle>epilogue</motcle>
+      <motcle>hand-kissing</motcle>
+      <motcle>fistfight</motcle>
+      <motcle>actress</motcle>
+      <motcle>german</motcle>
+      <motcle>multiple-perspectives</motcle>
+      <motcle>jewish</motcle>
+      <motcle>theatre</motcle>
+      <motcle>beaten-to-death-with-a-baseball-bat</motcle>
+      <motcle>mutilation</motcle>
+      <motcle>cult-film</motcle>
+      <motcle>special-forces</motcle>
+      <motcle>bag-over-head</motcle>
+      <motcle>france</motcle>
+      <motcle>1940s</motcle>
+      <motcle>film-projection-booth</motcle>
+      <motcle>sole-survivor</motcle>
+      <motcle>war-hero</motcle>
+      <motcle>detective</motcle>
+      <motcle>racial-slur</motcle>
+      <motcle>sister-sister-relationship</motcle>
+      <motcle>gun</motcle>
+      <motcle>throat-slitting</motcle>
+      <motcle>winston-churchill</motcle>
+      <motcle>garrotting</motcle>
+      <motcle>soldier</motcle>
+      <motcle>reference-to-jesse-owens</motcle>
+      <motcle>bomb</motcle>
+      <motcle>alternate-history</motcle>
+      <motcle>projectionist</motcle>
+      <motcle>dead-woman-on-floor</motcle>
+      <motcle>jewish-american</motcle>
+      <motcle>brutality</motcle>
+      <motcle>grisly-shootout</motcle>
+      <motcle>fake-identity</motcle>
+      <motcle>world-war-two</motcle>
+      <motcle>germany</motcle>
+      <motcle>gore</motcle>
+      <motcle>farm</motcle>
+      <motcle>african-american</motcle>
+      <motcle>betrayal</motcle>
+      <motcle>lens-flare</motcle>
+      <motcle>forest</motcle>
+      <motcle>reference-to-charlie-chaplin</motcle>
+      <motcle>suspicion</motcle>
+      <motcle>aunt-niece-relationship</motcle>
+      <motcle>waiter</motcle>
+      <motcle>dog</motcle>
+      <motcle>austrian</motcle>
+      <motcle>multiple-languages</motcle>
+      <motcle>blood</motcle>
+      <motcle>english-subtitles-in-original</motcle>
+      <motcle>danger</motcle>
+      <motcle>graphic-violence</motcle>
+      <motcle>reference-to-adolf-hitler</motcle>
+      <motcle>colonel</motcle>
+      <motcle>film-reel</motcle>
+      <motcle>nazi-propaganda</motcle>
+      <motcle>beaten-to-death</motcle>
+      <motcle>exploding-building</motcle>
+      <motcle>self-sacrifice</motcle>
+      <motcle>escape</motcle>
+      <motcle>scar</motcle>
+      <motcle>gun-fu</motcle>
+      <motcle>gunfight</motcle>
+      <motcle>racism</motcle>
+      <motcle>pistol</motcle>
+      <motcle>rear-entry-sex</motcle>
+      <motcle>man-strangles-woman</motcle>
+      <motcle>metaphorical-language</motcle>
+      <motcle>anti-semitism</motcle>
+      <motcle>woman-strangled-to-death</motcle>
+      <motcle>telephone-call</motcle>
+      <motcle>military</motcle>
+      <motcle>bar</motcle>
+      <motcle>translator</motcle>
+      <motcle>gun-sau</motcle>
+      <motcle>exit-wound</motcle>
+      <motcle>murder-of-family</motcle>
+      <motcle>evil-man</motcle>
+      <motcle>love</motcle>
+      <motcle>axe</motcle>
+      <motcle>escape-from-prison</motcle>
+      <motcle>bomb-in-public-place</motcle>
+      <motcle>milk</motcle>
+      <motcle>gun-kata</motcle>
+      <motcle>whipping</motcle>
+      <motcle>title-appears-in-writing</motcle>
+      <motcle>holocaust</motcle>
+      <motcle>reference-to-berlin-olympics</motcle>
+      <motcle>combat</motcle>
+      <motcle>sniper</motcle>
+      <motcle>anger</motcle>
+      <motcle>veterinarian</motcle>
+      <motcle>paris-france</motcle>
+      <motcle>voice-over-narration</motcle>
+      <motcle>fear</motcle>
+      <motcle>lighting-cigarette-for-woman</motcle>
+      <motcle>fire</motcle>
+      <motcle>bell-tower</motcle>
+      <motcle>autograph</motcle>
+      <motcle>golem</motcle>
+      <motcle>knife</motcle>
+      <motcle>italian</motcle>
+      <motcle>blood-spatter</motcle>
+      <motcle>camera-shot-of-feet</motcle>
+      <motcle>torture</motcle>
+      <motcle>nazi-hunter</motcle>
+      <motcle>defenestration</motcle>
+      <motcle>kiss-leaves-lipstick</motcle>
+      <motcle>historically-inaccurate</motcle>
+      <motcle>interrogation</motcle>
+      <motcle>village</motcle>
+      <motcle>person-on-fire</motcle>
+      <motcle>black-dress</motcle>
+      <motcle>bayonet</motcle>
+      <motcle>strudel</motcle>
+      <motcle>threaten-with-a-baseball-bat</motcle>
+      <motcle>red-dress</motcle>
+      <motcle>farmhouse</motcle>
+      <motcle>movie-theater</motcle>
+      <motcle>slow-motion-scene</motcle>
+      <motcle>champagne</motcle>
+      <motcle>whipped-cream</motcle>
+      <motcle>film-critic</motcle>
+      <motcle>stabbing-a-pillow</motcle>
+      <motcle>shooting-a-woman</motcle>
+      <motcle>death-of-family</motcle>
+      <motcle>torture-threat</motcle>
+      <motcle>street-shootout</motcle>
+      <motcle>splicing-film</motcle>
+      <motcle>dairy-farm</motcle>
+      <motcle>wilhelm-scream</motcle>
+      <motcle>newspaper</motcle>
+      <motcle>scalping</motcle>
+      <motcle>investigation</motcle>
+      <motcle>hermann-göring</motcle>
+      <motcle>dead-woman-with-eyes-open</motcle>
+      <motcle>hit-with-a-baseball-bat</motcle>
+      <motcle>blood-splatter</motcle>
+      <motcle>hiding-under-floorboards</motcle>
+      <motcle>carving-into-human-flesh</motcle>
+      <motcle>shootout</motcle>
+      <motcle>bullet-ballet</motcle>
+      <motcle>corpse</motcle>
+      <motcle>actor-shares-first-name-with-character</motcle>
+      <motcle>black-african</motcle>
+      <motcle>nonlinear-timeline</motcle>
+      <motcle>record-player</motcle>
+      <motcle>lieutenant</motcle>
+      <motcle>search</motcle>
+      <motcle>sergeant</motcle>
+      <motcle>murder</motcle>
+      <motcle>historical-fiction</motcle>
+      <langage>French</langage>
+      <langage>English</langage>
+      <langage>Italian</langage>
+      <langage>German</langage>
+      <role place="39">
+        <personnage>General Schonherr</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1954-01-01 00:00:00</date_naissance>
+          <nom>Bock, Rainer</nom>
+        </acteur>
+      </role>
+      <role place="41">
+        <personnage>Hellstrom's Driver</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1975-01-10 00:00:00</date_naissance>
+          <nom>Hülk, Sebastian</nom>
+        </acteur>
+      </role>
+      <role place="17">
+        <personnage>Gen. Ed Fenech</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Michael John Myers was born in 1963 in Scarborough, Ontario. His television career really started in 1988, when he joined _"Saturday Night Live" (1975)_ (qv), where he spent six seasons. He brought to life many memorable characters, such as Dieter and Wayne Cambell. His major movies include _Wayne's World (1992)_ (qv), _Wayne's World 2 (1993)_ (qv), _So I Married an Axe Murderer (1993)_ (qv), the Austin Powers movies and _Dr. Seuss' The Cat in the Hat (2003)_ (qv).</biographie>
+          <date_naissance>1963-05-25 00:00:00</date_naissance>
+          <nom>Myers, Mike</nom>
+          <nom_naissance>Myers, Michael John</nom_naissance>
+        </acteur>
+      </role>
+      <role place="11">
+        <personnage>Pfc. Smithson Utivich</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1979-07-31 00:00:00</date_naissance>
+          <nom>Novak, B.J.</nom>
+          <nom_naissance>Novak, Benjamin Joseph Manaly</nom_naissance>
+        </acteur>
+      </role>
+      <role place="14">
+        <personnage>Perrier LaPadite</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1976-01-01 00:00:00</date_naissance>
+          <nom>Ménochet, Denis</nom>
+        </acteur>
+      </role>
+      <role place="42">
+        <personnage>Gaspar</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1942-05-30 00:00:00</date_naissance>
+          <nom>Hooker, Buddy Joe</nom>
+        </acteur>
+      </role>
+      <role place="53">
+        <personnage>Motorcycle Rider #1</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Plank, Leo</nom>
+        </acteur>
+      </role>
+      <role place="56">
+        <personnage>Himself</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1938-07-29 00:00:00</date_naissance>
+          <nom>Castellari, Enzo G.</nom>
+          <nom_naissance>Girolami, Enzo</nom_naissance>
+        </acteur>
+      </role>
+      <role place="10">
+        <personnage>Marcel</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1977-05-14 00:00:00</date_naissance>
+          <nom>Ido, Jacky</nom>
+        </acteur>
+      </role>
+      <role place="16">
+        <personnage>Hitler</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1962-02-08 00:00:00</date_naissance>
+          <nom>Wuttke, Martin</nom>
+        </acteur>
+      </role>
+      <role place="38">
+        <personnage>Herrman #3</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Kranz, Michael</nom>
+        </acteur>
+      </role>
+      <role place="29">
+        <personnage>German Soldier</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Ken Duken was born on the 17th of April 1979 as a son of an actress and a doctor in Heidelberg / Germany. He started to learn acting from his stage actress mother Christina Loeb. Later he took courses by James Reynolds and Bruce McDonald but he never attended drama school. Before starting his career on television in 1997 Ken acted throughout different stage plays, for example "Visit from an old Lady". In the year 1998 he got a hold of his first leading role in the film "Land of Milk and Honey" (direction: Friedemann Fromm), and played side by side with Franka Potente and Heiner Lauterbach. BILD, largest daily paper in Germany, called him a "Shootingstar" with great talent and charisma. In 2000 Ken convinced in the role of Mark, a young guy confined to a wheelchair, in the motion picture "Gran Paradiso" from Miguel Alexandre. This film was nominated for the German Film Award. After some German productions, for example "Nightshift" (ZDF, direction: Lars Becker), Ken took part in the comedy "100 per cent" from Simon Verhoeven. Throughout the last years Ken Duken above all was shooting abroad together with great actors like Peter O'Toole, Klaus Maria Brandauer, Max von Sydow and Dominique Pinon. With the Italian production "Hidden Children" (2003, direction: Leone Pompucci) he gained great success and won amongst others the French Movie-Award at the 18th "Reincontres de Television de Reims". In 2003 Ken and some friends founded the film production company "Grand Hotel Pictures". The successful debut's name was "From another Point of View" (direction and production), which premiered on the 15th of April 2004 in Munich, starring his wife Marisa Leonie Bach and Dominique Pinon, famous French actor (Alien4, Amélie...). At the same time he put on Music-Videos (e.g. Curse - "Gangster-Rap", Oomph - "Das letzte Streichholz") and began to write the script for his first own film "Waiting for Eve". In 2005 Ken played the leading role in the movie "Another league" (produced by Wüste Film, winner of the Berlinale 2004 with "Against the wall") for which he was assigned as best actor at the Comedy-Festival in Monte Carlo. Furthermore he took part at the big Italian production "Karol" (film version of the life of the deceased Pope John Paul II (Karol Woytila)) for Channel 5 (Italy) which achieved an audience rating of 47%. In Poland this film beat all records and was more successful than "Star Wars 3" or "War of the worlds". In March 2005 Ken Duken was awarded with the Grimme Award for his role in "Kiss and Run" before he started filming "Störtebeker" (a movie about the life of the most famous German pirate) in May 2005. Afterwards he played the character Teddy Schrader in Lars Becker's "Nightshift". In summer 2006 Ken played the role of Anatol Kuragin in the international production "War &amp; Peace", based on the novel of Tolstoj, directed by Robert Dornhelm, where he had to shoot in Vilnius/Lithuania and St. Petersburg and afterward he was shooting another international production in Morocco - "Ali Baba", directed by Pierre Aknine. After leading roles in the movies "Distanz" and "Gellert", which were produced by Grand Hotel Pictures, he took part in the Italian production "Il Commissario de Luca", directed by Antonio Frazzi and played Ben Winter, a war returnee from Afganistan in the tv movie "Willkommen zuhause". In 2008 Ken won his second Grimme Award for "Eine andere Liga" and the Franz Hofer Award. In the same year he played the name part in the fairy tale "Koenig Drosselbart", co-starred with Gary Dourdan in the international production "Fire", played the leading role in "Das Unglueck von Ueberlingen" (directed by Till Endemann), a tv movie about the air plane crash in Ueberlingen in 2002, and took part in Quentin Tarantino's "Inglorious Basterds". In 2009 he won the "Bayerischen Fernsehpreis" for "Willkommen zuhause" in the category "best actor TV-movie". At the moment he co-stars with Till Schweiger in his new movie "Zweiohrkueken.</biographie>
+          <date_naissance>1979-04-17 00:00:00</date_naissance>
+          <nom>Duken, Ken</nom>
+        </acteur>
+      </role>
+      <role place="3">
+        <personnage>Col. Hans Landa</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Christoph Waltz was born to Elisabeth Urbancic, a costume designer, and Johannes Waltz, a stage builder. He has 3 siblings. He was born into a theater family. His grandmother was the Viennese Burgtheater actress Maria Mayen, and his step-grandfather was fellow Burgtheater actor Emmerich Reimers. Christoph attended the Theresianium and Billrothstrasse in Vienna. Upon graduation, he attended the Max-Reinhardt-Seminar before going to New York to the Lee Strasberg Institute. While in New York, Christoph met his first wife, and moved back to Vienna, then to London. During the 80s, Christoph worked primarily in theater, commuting from his home in London to Germany. Slowly he began to work in TV, taking one-off roles on series, and TV movies. Film roles soon followed, however, attempts to break into English-speaking film and TV were unsuccessful. Christoph has stated he is grateful to have made a living and supported his family through acting. For thirty years he worked steadily, tirelessly, in this manner. It was not until he met Quentin Tarantino that his career in Hollywood took off. The role of Colonel Hans Landa in Inglourious Basterds catapulted Christoph from a lifetime working in German TV/film to the new life of an international superstar, Academy Award winning actor. He won 27 awards for his performance as Hans Landa, including the Cannes prix d'interpretation Masculin for 2009, the Golden Globe for Best Supporting Actor and the BAFTA Best Supporting Actor award. Christoph resides in Berlin and Los Angeles. His partner is the costume builder Judith Holste.</biographie>
+          <date_naissance>1956-10-04 00:00:00</date_naissance>
+          <nom>Waltz, Christoph</nom>
+        </acteur>
+      </role>
+      <role place="4">
+        <personnage>Sgt. Donny Donowitz</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Eli Roth began shooting Super 8 films at the age of eight, after watching Ridley Scott's _Alien (1979)_ (qv) and vomiting, and deciding he wanted to be a producer/director. With his brothers and friends, ketchup for blood and his father's power tools, he made over fifty short films before attending film school at N.Y.U., where he won a student Academy Award and graduated Summa Cum Laude in 1994. He worked in film and theater production in New York City for many years, doing every job from production assistant to assistant editor to assistant to the director. At the age of 20 Roth was development head for producer Fred Zollo, a position he soon left to write full time. To earn a living, Roth did budgets and schedules for the films _A Price Above Rubies (1998)_ (qv) and _Illuminata (1998)_ (qv) and often worked as a stand-in, where he could watch directors work with the actors. In 1995, Roth co-wrote the script that would eventually become _Cabin Fever (2002)_ (qv) with friend 'Randy Pearlstein' (qv), and the two spent many years unsuccessfully trying to get the film financed. Roth left New York in 1999 to live in Los Angeles, and within four months got funding for his animation series _"Chowdaheads" (1999)_ (qv). Roth and friend 'Noah Belson' (qv) (_Cabin Fever (2002)_ (qv)'s Guitar Man) wrote and voiced the episodes, which Roth produced, directed and designed. The episodes were due to run on W.C.W.'s #1 rated series _"WCW Monday Nitro" (1995)_ (qv) but the C.E.O. was fired a day before they were scheduled to air, and the episodes never ran. Roth used the episodes to set up a stop motion series called _The Rotten Fruit (2003) (V)_ (qv) which he produced, directed and animated, as well as co-wrote and voiced with friend Belson. Between the two animated series, Roth worked closely with director 'David Lynch (I)' (qv), producing content for the website davidlynch.com. In 2001, Roth filmed _Cabin Fever (2002)_ (qv) on a shoestring budget of $1.5 million, with private equity he and his producers raised from friends and family. The film was the subject of a bidding war at the 2002 Toronto Film Festival, eventually won by Lion's Gate, instantly doubling their investors' money. It went on to not only be the highest grossing film for Lion's Gate in 2003, but the most profitable horror film released that year, garnering critical acclaim from The New York Times, Rolling Stone, Empire Magazine, and such filmmakers as 'Peter Jackson (I)' (qv), 'Quentin Tarantino' (qv) and 'Tobe Hooper' (qv) . Roth used the film's success to launch a slew of projects, including Scavenger Hunt, a teen comedy he will write and direct for Universal Studios, and The Box, a horror thriller he is co-writing with 'Richard Kelly (I)' (qv) that Roth will also direct. In May of 2003, Roth joined forces with filmmakers 'Boaz Yakin' (qv), 'Scott Spiegel (I)' (qv), and Greenestreet Films in New York to form Raw Nerve, LLC, a new production company that will produce 3-5 intense, scary, lower budget horror films annually.</biographie>
+          <date_naissance>1972-04-18 00:00:00</date_naissance>
+          <nom>Roth, Eli</nom>
+          <nom_naissance>Roth, Eli Raphael</nom_naissance>
+        </acteur>
+      </role>
+      <role place="46">
+        <personnage>Jakob Dreyfus</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1966-04-09 00:00:00</date_naissance>
+          <nom>Elias, Patrick</nom>
+        </acteur>
+      </role>
+      <role place="20">
+        <personnage>Master Sgt. Wilhelm</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1981-03-29 00:00:00</date_naissance>
+          <nom>Fehling, Alexander</nom>
+        </acteur>
+      </role>
+      <role place="21">
+        <personnage>Winston Churchill</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Suave and handsome Australian actor who came to Hollywood in the 1950s, and built himself up from a supporting actor into taking the lead in several well-remembered movies. Arguably his most fondly remembered role was that as George (Herbert George Wells), the inventor, in 'George Pal' (qv)'s spectacular _The Time Machine (1960)_ (qv). As the movie finished with George, and his best friend Filby 'Alan Young (I)' (qv) seemingly parting forever, both actors were brought back together in 1993 to film a 30 minute epilogue to the original movie! Taylor's virile, matinée idol looks also assisted him in scoring the lead of Mitch Brenner in 'Alfred Hitchcock (I)' (qv)'s creepy thriller _The Birds (1963)_ (qv), the role of 'Jane Fonda' (qv)'s love interest in _Sunday in New York (1963)_ (qv), the title role in 'John Ford (I)' (qv)'s biopic of Irish playwright 'Sean O'Casey' (qv) in _Young Cassidy (1965)_ (qv), and a co-starring role in _The Train Robbers (1973)_ (qv) with 'John Wayne (I)' (qv). Taylor also appeared as 'Bette Davis' (qv) future son-in-law in the well-received film _The Catered Affair (1956)_ (qv). He also gave a sterling performance as the German-American Nazi Major trying to fool 'James Garner (I)' (qv) in _36 Hours (1965)_ (qv). Later Taylor made many westerns and action movies during the 1960s and 1970s; however, none of them were much better than "B pictures" and failed to push his star to the next level. Aditionally, Taylor was cast as the lead in several TV series including _"Bearcats!" (1971)_ (qv), _"Masquerade" (1983)_ (qv), and _"Outlaws" (1986)_ (qv); however, none of them truly ignited viewer interest, and they were canceled after only one or two seasons. Most fans would agree that Rod Taylor's last great role was in the wonderful Australian film _The Picture Show Man (1977)_ (qv), about a traveling side show bringing "moving pictures" to remote towns in the Australian outback.</biographie>
+          <date_naissance>1930-01-11 00:00:00</date_naissance>
+          <nom>Taylor, Rod</nom>
+          <nom_naissance>Taylor, Rodney Sturt</nom_naissance>
+        </acteur>
+      </role>
+      <role place="37">
+        <personnage>Herrman #1</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Lindner, Wolfgang</nom>
+        </acteur>
+      </role>
+      <role place="27">
+        <personnage>German Female Soldier</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1969-10-06 00:00:00</date_naissance>
+          <nom>Hartung, Petra</nom>
+        </acteur>
+      </role>
+      <role place="30">
+        <personnage>Proprietor Eric</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1957-10-28 00:00:00</date_naissance>
+          <nom>Berkel, Christian</nom>
+        </acteur>
+      </role>
+      <role place="35">
+        <personnage>Cpt. Wolfgang</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1959-03-16 00:00:00</date_naissance>
+          <nom>Pistor, Ludger</nom>
+        </acteur>
+      </role>
+      <role place="33">
+        <personnage>Julie LaPadite</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Rodriguez, Tina</nom>
+        </acteur>
+      </role>
+      <role place="54">
+        <personnage>Motorcycle Rider #2</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Tietz, Andreas</nom>
+        </acteur>
+      </role>
+      <role place="28">
+        <personnage>German Soldier</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1971-01-01 00:00:00</date_naissance>
+          <nom>Michalowski, Volker</nom>
+        </acteur>
+      </role>
+      <role place="1">
+        <personnage>Lt. Aldo Raine</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Brad Pitt was born on December 18, 1963 in Shawnee, Oklahoma and raised in Springfield, Missouri. His mother's name is Jane Etta Hillhouse. His father, William (Bill) Pitt, worked in management at a trucking firm in Springfield. He has a younger brother, Douglas (Doug) Pitt and a younger sister Julie Neal Pitt. At Kickapoo High School, Pitt was involved in sports, debating, student government and school musicals. Pitt attended the University of Missouri, where he majored in journalism with a focus on advertising. He occasionally acted in fraternity shows. He left college two credits short of graduating to move to California. Before he became successful at acting, Pitt supported himself by driving strippers in limos, moving refrigerators and dressing as a giant chicken while working for "el Pollo Loco".</biographie>
+          <date_naissance>1963-12-18 00:00:00</date_naissance>
+          <nom>Pitt, Brad</nom>
+          <nom_naissance>Pitt, William Bradley</nom_naissance>
+        </acteur>
+      </role>
+      <role place="48">
+        <personnage>Bob Dreyfus</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Brandt, Salvadore</nom>
+        </acteur>
+      </role>
+      <role place="45">
+        <personnage>Emil Jannings</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1954-08-18 00:00:00</date_naissance>
+          <nom>Eichhorn, Hilmar</nom>
+        </acteur>
+      </role>
+      <role place="18">
+        <personnage>Francesca Mondino</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1966-01-24 00:00:00</date_naissance>
+          <nom>Dreyfus, Julie</nom>
+        </acteur>
+      </role>
+      <role place="51">
+        <personnage>Maxim's Waiter</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Girard, Olivier</nom>
+        </acteur>
+      </role>
+      <role place="15">
+        <personnage>Joseph Goebbels</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1958-03-31 00:00:00</date_naissance>
+          <nom>Groth, Sylvester</nom>
+        </acteur>
+      </role>
+      <role place="25">
+        <personnage>Pfc. Michael Zimmerman</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1973-04-19 00:00:00</date_naissance>
+          <nom>Bacall, Michael</nom>
+          <nom_naissance>Buccellato, Michael Stephen</nom_naissance>
+        </acteur>
+      </role>
+      <role place="24">
+        <personnage>Pfc. Andy Kagan</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1981-04-12 00:00:00</date_naissance>
+          <nom>Rust, Paul</nom>
+        </acteur>
+      </role>
+      <role place="52">
+        <personnage>General Frank</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Started out in the film industry in 1988 as a Unit Manager for the German-Australian co-production _The Prisoner of St. Petersburg (1989)_ (qv). Further work as a Unit Manager includes _Der Hammermörder (1990) (TV)_ (qv), awarded the Grimme Prize. In 1992, he was Production Manager for the Columbia Tri-Star production _"Berlin Break" (1993)_ (qv) and also served as Production Manager on several films including the most successful television movie of 1996, _Der Clown (1996) (TV)_ (qv). Since 1998, he's also worked as Line and Executive Producer for various feature and television productions. While getting his own production company up and running, he's worked primarily for international feature projects such as the Kevin Spacey film _Beyond the Sea (2004)_ (qv) or the Paramount production _Aeon Flux (2005)_.</biographie>
+          <date_naissance>1962-03-24 00:00:00</date_naissance>
+          <nom>Scheel, Michael</nom>
+        </acteur>
+      </role>
+      <role place="19">
+        <personnage>Sgt. Rachtman</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born in Heidelberg; a curious and shy boy; found the key for his world through passion for music, dance and theater; Richard studied music and drama in Germany, acting and direction in France and method acting with Susan Strasberg and Francesca de Sapio in Italy. He first went on stage in 1981 at the local theater Hildesheim, then, from 1983 in France on independent stages, at national theaters and in the streets. In 1989 he moved to Italy and met Susan Strasberg: His cinema debut was in 1990 starring in "Il Piacere delle Carni" by Barbara Barni. In 1993, he moved to Paris and got the leading role in the film version of Brechts/Eislers" The Lindbergh's Flight". Since then he has worked on film, television, theater and dance productions all over Europe, in Canada, South Africa, USA, Macedonia, Morocco which brought him happiness and a lot of richly diversified creative and thrilling experiences Richard lives in Berlin and Paris since 2007. He speaks 5 languages fluently, travels a lot and loves to be challenged.</biographie>
+          <date_naissance>1960-01-01 00:00:00</date_naissance>
+          <nom>Sammel, Richard</nom>
+        </acteur>
+      </role>
+      <role place="49">
+        <personnage>Amos Dreyfus</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Linnewedel, Jasper</nom>
+        </acteur>
+      </role>
+      <role place="55">
+        <personnage>American Colonel</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born in Sweden, Bo Svenson emigrated to the US as a teenager. After six years of service in the United States Marine Corps, he was in Miami when he was spotted by James Hammerstein Jr. and cast in a revival of South Pacific at the Coconut Grove Playhouse and thereafter headed to New York City to become an actor. He was seen by the grand dame of casting, Marion Dougherty, while starring as Yang Sun in Bertolt Brech'ts play The Good Woman Of Szechuan at The Circle In The Square Theater in Greenwich Village. Dougherty cast him in a starring role in the CBS television series The Freebooters and thereafter as Robert Redford's costar in _The Great Waldo Pepper (1975)_ (qv) for which he received critical acclaim - as he has also for many other roles such as The Creature in the 1973 TV movie _"The Wide World of Mystery" (1973) {Frankenstein: Part 1 (#1.2)}_ (qv), _North Dallas Forty (1979)_ (qv), _The Delta Force (1986)_ (qv), _Yukie (1998)_ (qv), _Kill Bill: Vol. 2 (2004)_ (qv), and _Inglourious Basterds_ (2009)_qv. He appeared in several other made-for-TV films including _Hitched (1971) (TV)_ (qv), _Target Risk (1975) (TV)_ (qv) and _Snowbeast (1977) (TV)_ (qv). Svenson's other memorable roles are in _Walking Tall Part II (1975)_ (qv) and _Final Chapter: Walking Tall (1977)_ (qv). Although he is best known as an actor, he also an accomplished writer, director and producer. A sought-after speaker and seminarian, he is also an accomplished athlete and has competed in world championships, Olympic selections and international competition in judo, yachting, track, ice hockey and/or auto racing (NASCAR, PRO-SCCA and F1A). He was Chairman of the Board and CEO of Motion Picture Group of America from 1984-1995. While he has received numerous awards and nominations for his body of work, he especially values the Italian Institute of Art Award of Merit, the American Culture Foundation Man of the Year Award, Italy's Legione Garibaldina Ruole D'Onore, the NAACP Image Award, the Academy of Science Fiction and Fantasy Golden Scroll Award, and the Hollywood Women's Press Club Golden Apple. He lives in Pacific Palisades, CA, and on the Sunshine Coast in British Columbia. He has been a member of the The Academy of Motion Picture Arts and Sciences since 1986.</biographie>
+          <date_naissance>1941-02-13 00:00:00</date_naissance>
+          <nom>Svenson, Bo</nom>
+        </acteur>
+      </role>
+      <role place="7">
+        <personnage>Fredrick Zoller</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1978-06-16 00:00:00</date_naissance>
+          <nom>Brühl, Daniel</nom>
+          <nom_naissance>Domingo, Daniel César Martín Brühl González</nom_naissance>
+        </acteur>
+      </role>
+      <role place="22">
+        <personnage>Pvt. Butz</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1972-10-12 00:00:00</date_naissance>
+          <nom>Möhring, Sönke</nom>
+        </acteur>
+      </role>
+      <role place="23">
+        <personnage>Pfc. Hirschberg</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Samm Levine's first breakout role was as a member of the "geek" half of the short lived cult hit, _"Freaks and Geeks" (1999)_ (qv). The following year, he rejoined "Freaks and Geeks" producer, 'Judd Apatow' (qv), for another widely praised coming of age series, _"Undeclared" (2001)_ (qv). That same year, Samm made his feature debut in the raucous teen spoof, _Not Another Teen Movie (2001)_ (qv). Since then, he has appeared in over 60 films and television shows, including the Oscar winning 'Quentin Tarantino' (qv) epic, _Inglourious Basterds (2009)_ (qv), and in many memorable roles on beloved programs such as _"Entourage" (2004)_ (qv), _"Modern Family" (2009)_ (qv), _"NCIS: Naval Criminal Investigative Service" (2003)_ (qv) and _"How I Met Your Mother" (2005)_ (qv). In addition to his growing catalog of television appearances, Samm is also known for roles in many cult features, including the Broken Lizard comedy, _Club Dread (2004)_ (qv), the sci-fi thriller, _Pulse (2006/I)_ (qv), and acclaimed indie comedies, _Drones (2010)_ (qv) and IFC's _Made for Each Other (2009)_ (qv) Samm has also served as co-host and producer to 'Kevin Pollak (I)' (qv)'s renowned celebrity talk show, _"Kevin Pollak's Chat Show" (2009)_ (qv), since its inception in 2009 - a role he came into after his interview as a guest on the first episode.</biographie>
+          <date_naissance>1982-03-12 00:00:00</date_naissance>
+          <nom>Levine, Samm</nom>
+          <nom_naissance>Levine, Samuel Franklin</nom_naissance>
+        </acteur>
+      </role>
+      <role place="40">
+        <personnage>Old French Veterinarian</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>André Penvern is a French actor born in Sèvres. At age 17, he began working with National Drama Centers. He went from small parts to stage manager, sound and lightning designer, etc. His meeting with Margot Capelier, casting director, was crucial for him. She introduced him to Fred Zinnemann Otto Preminger John Frankenheimer, Gérard Oury. He alternates between theater and television, encountering Jean Marboeuf Alain Bonnot, Philippe de Broca, Olivier Dahan.</biographie>
+          <nom>Penvern, André</nom>
+        </acteur>
+      </role>
+      <role place="6">
+        <personnage>Bridget von Hammersmark</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Diane Kruger was born Diane Heidkrüger in Algermissen, near Hildesheim, Germany. She studied ballet with the Royal Ballet in London before an injury ended her career. She returned to Germany and became a top fashion model. She later pursued acting and relocated to Paris at the suggestion of filmmaker 'Luc Besson' (qv) (_The Fifth Element (1997)_ (qv)). She married French actor 'Guillaume Canet' (qv) (_The Beach (2000/I)_ (qv)) in 2001.</biographie>
+          <date_naissance>1976-07-15 00:00:00</date_naissance>
+          <nom>Kruger, Diane</nom>
+          <nom_naissance>Heidkrüger, Diane</nom_naissance>
+        </acteur>
+      </role>
+      <role place="32">
+        <personnage>Charlotte LaPadite</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Léa Seydoux was born in Paris, France in 1985, to Valérie (Schlumberger) and Henri Seydoux. Her grandfather, Jérôme Seydoux, is chairman of Pathé, and her father is a great-grandson of businessman and inventor Marcel Schlumberger (her mother also descends from the Schlumberger family). Her parents are both of mixed French and Alsatian German descent, with more distant Spanish-Venezuelan roots on her father's side. In 2009, she was nominated for the César Award for Most Promising Actress for her role in the film The Beautiful Person. She has been cast in a number of notable American films such as Ridley Scott's Robin Hood, Woody Allen's Midnight in Paris and Brad Bird's Mission: Impossible - Ghost Protocol. As a special prize for their roles in Blue Is the Warmest Color, Seydoux and co-star Adèle Exarchopoulos were awarded the Palme d'Or alongside director Abdellatif Kechiche. Along with Jane Campion, Seydoux and Exarchopoulos are the only women to have ever won a Palme d'Or.</biographie>
+          <date_naissance>1985-07-01 00:00:00</date_naissance>
+          <nom>Seydoux, Léa</nom>
+          <nom_naissance>de Clausonne, Léa Hélène Seydoux-Fornier</nom_naissance>
+        </acteur>
+      </role>
+      <role place="47">
+        <personnage>Miriam Dreyfus</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1972-04-26 00:00:00</date_naissance>
+          <nom>Löbau, Eva</nom>
+        </acteur>
+      </role>
+      <role place="36">
+        <personnage>Babette</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1979-05-20 00:00:00</date_naissance>
+          <nom>Pallaske, Jana</nom>
+        </acteur>
+      </role>
+      <role place="31">
+        <personnage>Mathilda</personnage>
+        <acteur sexe="FEMININ">
+          <date_naissance>1986-04-12 00:00:00</date_naissance>
+          <nom>Franck, Anne-Sophie</nom>
+        </acteur>
+      </role>
+      <role place="34">
+        <personnage>Suzanne LaPadite</personnage>
+        <acteur sexe="FEMININ">
+          <nom>Friedrich, Lena</nom>
+        </acteur>
+      </role>
+      <role place="43">
+        <personnage>Pfc. Simon Sakowitz</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>Fidel, Carlos</nom>
+        </acteur>
+      </role>
+      <role place="26">
+        <personnage>German Soldier</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1972-11-06 00:00:00</date_naissance>
+          <nom>Schwering-Sohnrey, Arndt</nom>
+        </acteur>
+      </role>
+      <role place="9223372036854775807">
+        <personnage>German Soldier</personnage>
+        <acteur sexe="MASCULIN">
+          <nom>August, Michael</nom>
+        </acteur>
+      </role>
+      <role place="13">
+        <personnage>Major Hellstrom</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1976-01-04 00:00:00</date_naissance>
+          <nom>Diehl, August</nom>
+        </acteur>
+      </role>
+      <role place="9">
+        <personnage>Cpl. Wilhelm Wicki</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Born in Munich in 1969, Gedeon was raised bilingual (English &amp; German). He was sent to boarding school in England at the age of 8 and transferred to American high school at the age of 12. Gedeon starred in his first movie (Aunt Maria) when he was 10, his second lead role followed one year later in the American / German co-production Blood and Honor (3 part mini series) as Hartmut Keller. By demand of the American and German Producers each scene was shot once in English and once in German, due to his bilingual upbringing, Gedeon was the only actor who did not have to be dubbed in either version. Gedeon continuously worked in various projects during school vacations until he dropped out of high school after 11th grade. At this time he concentrated on training for 2 years, attending musical school and taking speech and acting classes on the side. In 1988 Gedeon starred, next to Tony Curtis and Birol Head On by Fathi Akin), in the motion Picture Welcome to Germany which marked the beginning of his career as a grownup. Since then Gedeon has acted in numerous films, including Acting it Out (German film award/ Movie and Bavarian Film award/Actor) by acclaimed German director Wortman, Silence like Glass by Carl Schenkel and Making Up (Student Academy Award USA/German Film Award) by Katja von Garnier. He also starred in the internationally successful television series Detectiv Rex (sold to over 140 territories) and Kobra 11 (Action series, sold to over 120 territories). in 2006 Gedeon portrayed Henry Neumann, a Jewish boxer trapped in a boxcar with his family on the way to Auschwitz, in the motion picture The last Train. This challenging part, it seems, was the perfect preparation for the biggest opportunity in his career to date, the part of the Jewish Basterd (Will Wicky) in Quentin Tarantino's new movie Inglorious Basterds.</biographie>
+          <date_naissance>1969-07-03 00:00:00</date_naissance>
+          <nom>Burkhard, Gedeon</nom>
+        </acteur>
+      </role>
+      <role place="2">
+        <personnage>Shosanna</personnage>
+        <acteur sexe="FEMININ">
+          <biographie>Mélanie Laurent was born in Paris, France. She is the daughter of Annick, a ballet teacher, and Pierre, a voice actor, who is most recognized for the French version of _"The Simpsons" (1989)_ (qv). She also has a younger brother, Mathieu. In 1998, she was visiting the set of _Astérix &amp; Obélix contre César (1999)_ (qv) with a friend when she caught the attention of 'Gérard Depardieu' (qv). He offered her a role in his next film _Un pont entre deux rives (1999)_ (qv). She only played a small role, but it was enough to further Mélanie's interest in acting.</biographie>
+          <date_naissance>1983-02-21 00:00:00</date_naissance>
+          <nom>Laurent, Mélanie</nom>
+        </acteur>
+      </role>
+      <role place="44">
+        <personnage>Kliest Voice</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1943-10-27 00:00:00</date_naissance>
+          <nom>Brückner, Christian</nom>
+        </acteur>
+      </role>
+      <role place="5">
+        <personnage>Lt. Archie Hicox</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Michael Fassbender was born in Heidelberg, Germany, to a German father, Josef, and an Irish mother, Adele (originally from Larne, County Antrim, in Northern Ireland). Michael was raised in the town of Killarney, Co. Kerry, in south-west Ireland, where his family moved to when he was two years old. He is based in London, England, and is known for his roles in the films _Inglourious Basterds (2009)_ (qv), _X-Men: First Class (2011)_ (qv), _Shame (2011)_ (qv) and _12 Years a Slave (2013)_ (qv).</biographie>
+          <date_naissance>1977-04-02 00:00:00</date_naissance>
+          <nom>Fassbender, Michael</nom>
+        </acteur>
+      </role>
+      <role place="50">
+        <personnage>German Company Sgt.</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1962-10-08 00:00:00</date_naissance>
+          <nom>Hochholdinger, Wilfried</nom>
+        </acteur>
+      </role>
+      <role place="8">
+        <personnage>Sgt. Hugo Stiglitz</personnage>
+        <acteur sexe="MASCULIN">
+          <biographie>Actor, producer, writer and director Til Schweiger is a successful filmmaker from Germany. With more than 51 Million admissions no other German filmmaker drew more people to the cinemas. He runs his own production company Barefoot Films in Berlin. Born in Freiburg, Germany on December 19th in 1963, Til Schweiger was raised along with his two brothers in his hometown Giessen, Germany. Schweiger went on to attend University, where he studied German and Medicine. Collecting first acting experiences during this time, he decided to give up University for drama school in 1986. After graduation in 1989 he played at several theaters in Cologne and Bonn. In front of the screen, Schweiger first appeared as an actor in 1991 in _Manta, Manta (1991)_ (qv). Supported by his mentor, Germanys biggest Filmproducer Bernd Eichinger, he had his breakthrough role in _Der bewegte Mann (1994)_ (qv). Following this role, Schweiger developed quite a fan base and began appearing on lists everywhere. His film career continued with big roles in several successful German movies. In 1995 Schweiger married American model Dana Carlson on June 19th. A few months later their first child Valentin Florian was born. In 1996 Schweiger was the first foreign actor who won the "Polish Oscar" at the International Warsaw Filmfestival for his performance in _Bandyta (1997)_ (qv). In 1997 Schweigers first daughter, Luna Marie was born. In the same year, short before Christmas, Schweiger went to a bookstore to buy presents for his family. The same did Thomas Jahn who had written several scripts. They started talking and ended up making a movie together. _Knockin' on Heaven's Door (1997)_ (qv) was Schweiger's debut as a producer and (uncredited) director. The film remains a cult favorite for audiences worldwide. In 1998 his and Danas third child, Lilli Camille was born. In the same year Schweiger appeared in two remarkable international productions _The Replacement Killers (1998)_ (qv) and _SLC Punk! (1998)_ (qv). A wide range of American films were following. In 2002 his youngest daughter Emma was born. Shooting successfully all over the world, Til and Dana Schweiger separated in 2005, but have not divorced. In the same year Schweiger won numerous Awards for _Barfuss (2005)_ (qv) in 2005 which he wrote, directed and starred in. This absolute artistic freedom became a prosperous model for his following projects. The most famous one was _Keinohrhasen (2007)_ (qv) which was also written, produced and directed by Schweiger and became the most successful film in German Theaters in 2008 with a box office result of USD 58.000.000. The film won a Bambi Award, a Bavarian Film Award, the German Comedy Award, two DIVA Awards, a Jupiter Award and the Ernst Lubitsch Award. As an actor he received much attention on his big screen appearance as the legendary Hugo Stieglitz in Quentin Tarantinos _Inglourious Basterds (2009)_ (qv). During this year he achieved more admissions than any other German actor since 1968, when the FFA started counting. His latest film and seventh work as a director, co-writer, producer and actor is called _Kokowääh (2011)_ (qv). The film is co-starring his youngest daughter Emma and a huge success in when it started in February 2011.</biographie>
+          <date_naissance>1963-12-19 00:00:00</date_naissance>
+          <nom>Schweiger, Til</nom>
+          <nom_naissance>Schweiger, Tilman Valentin</nom_naissance>
+        </acteur>
+      </role>
+      <role place="12">
+        <personnage>Pfc. Omar Ulmer</personnage>
+        <acteur sexe="MASCULIN">
+          <date_naissance>1976-06-29 00:00:00</date_naissance>
+          <nom>Doom, Omar</nom>
+          <nom_naissance>Makhdoomi, Omar</nom_naissance>
+        </acteur>
+      </role>
+    </film>
+  </projection>
+</projections>
