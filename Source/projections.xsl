@@ -185,7 +185,6 @@
     </xsl:template>
 
     <xsl:template match="acteur" mode="details">
-
         <xsl:variable name="actorName" select="translate(translate(nom,',',''),' ','')"/>
         <div class="modal fade" tabindex="-1" role="dialog" id="{$actorName}-details">
             <div class="modal-dialog">
@@ -361,13 +360,7 @@
                             </div>
                         </div>
                     </div>
-
-                    <!--
-					#TODO LANGUE, Salle utilisee et critique des films
-				-->
-
                 </div>
-
             </div>
         </div>
         <hr></hr>

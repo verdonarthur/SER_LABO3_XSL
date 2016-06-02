@@ -52,23 +52,42 @@
     \newpage
 
     \section{Introduction}
-    L'objectif de ce laboratoire consite [...]
+    L'objectif de ce laboratoire consiste en la création d'un "site" permettant
+    l'affichage des projections à partir d'un fichier XML et XSL (aussi appelé
+    XSLT).
 
     \section{Modification éventuelle de la structure XML}
-    Pas de modification particulière apportée à la structure XML
+    Pas de modification particulière apportée à la structure XML dans ce labo.
+
+    \section{Vision conceptuelle du programme}
+    Le programme permettra de générer trois fichier HTML contenant chacun une
+    présentation différente des films. Chaque film sera afficher avec ses détails
+    contenu dans une div "collapse" (voir CSS/Bootrstrap).
 
     \section{Structure du programme}
     \subsection{XSL}
-    La fichier XSL est découpé en plusieur templates.
+    La fichier XSL est découpé en plusieur templates décrit ci-dessous.
+    \vspace{5}
     \\\\le premier des templates permet l'affichage des différents films et peut
     être appliqué dès que l'on veut afficher un film (il est d'ailleur appliquer
     dans les templates suivant).
+    \lstinputlisting[language=xslt, firstline=225, lastline=231,numbers=none]{../Source/projections.xsl}
+    \vspace{30}
+
     \\\\Trois autre template permettent de trier les films
     selon l'ordre voulu (par date de projection, par nom ou par classement/évaluation).
     Ces trois autre template applique le premier tempalte qui permet d'afficher la
     liste des films.
+    \lstinputlisting[language=xslt, firstline=142, lastline=174,numbers=none]{../Source/projections.xsl}
+    \vspace{30}
+
     \\\\Le dernier template permet d'afficher les acteurs dans le film et est appliqué
     dans le premier template s'occupant des films.
+    \lstinputlisting[language=xslt, firstline=187, lastline=223,numbers=none]{../Source/projections.xsl}
+    \vspace{30}
+
+    \\\\Le XSL génère ensuite trois fichiers HTML chacun contenants un tri différent.
+    \lstinputlisting[language=xslt, firstline=9, lastline=28,numbers=none]{../Source/projections.xsl}
 
     \subsection{CSS}
     Afin de gagner en rapidité de dévellopement, il a été choisi d'utiliser un
@@ -80,15 +99,42 @@
     \subsection{Javascript}
     Comme dit précédement un framework à été utilisé pendant ce labo donc peu de
     JS à été écrit (pour les même raisons il ne sera pas ajouté dans les annexes).
+
     \\ En complèment a Bootrstrap, nous avons utilisé JQuery (qui est nécessaire
     pour Bootstrap) et une petite librairie (qui utilise Boostrap) qui permet
     d'afficher des étoiles pour les critiques.
 
+    \newpage
     \section{Resultats}
-    
+    Voici quelques captures d'écran présentant nos résultats
+    \begin{center}
 
-    \subsection{Conclusion}
+      \fbox{\includegraphics[height=200]{./img/resultat1.PNG}}
+      \\\caption{Exemple de la page listant les films par noms}}
+      \\\vspace{30}
+      \fbox{\includegraphics[height=200]{./img/resultat2.PNG}}
+      \\\caption{Exemple de la page listant les films par note}
+      \\\vspace{30}
+      \fbox{\includegraphics[height=200]{./img/resultat3.PNG}}
+      \\\caption{Exemple d'affichage des détails d'un acteur}
+      \\\vspace{30}
+      \fbox{\includegraphics[height=200]{./img/resultat4.PNG}}
+      \\\caption{Exemple d'affichage des différentes critiques d'un film}
+    \end{center}
 
+
+    \newpage
+    \section{Comment obtenir ce résultat}
+    Pour obtenir ce résultat il suffit de taper la commande suivante :\\
+    \begin{lstlisting}[numbers=none]
+      java -cp saxon9he.jar net.sf.saxon.Transform -s:{LE FICHIER CONTENANT LES PROJECTIONS}.xml -xsl:projections.xsl
+    \end{lstlisting}
+
+    \section{Conclusion}
+    Dans ce labo nous avons pu constater que XSLT pouvait s'avérer utile dans le
+    cas ou le contenu d'un fichier XML devrait être rendu présentable. Toutefois
+    nous avons trouvé ce langage assez lourd d'utilisation pour la génération
+    d'un HTML.
 
     \newpage
 

@@ -1,11 +1,13 @@
 \select@language {french}
 \contentsline {section}{\numberline {1}Introduction}{2}
 \contentsline {section}{\numberline {2}Modification \IeC {\'e}ventuelle de la structure XML}{2}
-\contentsline {section}{\numberline {3}Structure du programme}{2}
-\contentsline {subsection}{\numberline {3.1}XSL}{2}
-\contentsline {subsection}{\numberline {3.2}CSS}{2}
-\contentsline {subsection}{\numberline {3.3}Javascript}{2}
-\contentsline {section}{\numberline {4}Resultats}{2}
-\contentsline {subsection}{\numberline {4.1}Conclusion}{2}
-\contentsline {section}{\numberline {5}Annexe}{3}
-\contentsline {subsection}{\numberline {5.1}Code projections.xsl}{3}
+\contentsline {section}{\numberline {3}Vision conceptuelle du programme}{2}
+\contentsline {section}{\numberline {4}Structure du programme}{2}
+\contentsline {subsection}{\numberline {4.1}XSL}{2}
+\contentsline {subsection}{\numberline {4.2}CSS}{4}
+\contentsline {subsection}{\numberline {4.3}Javascript}{4}
+\contentsline {section}{\numberline {5}Resultats}{5}
+\contentsline {section}{\numberline {6}Comment obtenir ce r\IeC {\'e}sultat}{7}
+\contentsline {section}{\numberline {7}Conclusion}{7}
+\contentsline {section}{\numberline {8}Annexe}{8}
+\contentsline {subsection}{\numberline {8.1}Code projections.xsl}{8}
